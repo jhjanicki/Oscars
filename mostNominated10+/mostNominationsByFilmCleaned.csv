@@ -1,0 +1,1092 @@
+year,film,category,name,won,discount,role,category2
+1997,Titanic,ACTRESS IN A LEADING ROLE,Kate Winslet,,,"{""Rose DeWitt Bukater""}",NA
+1997,Titanic,ACTRESS IN A SUPPORTING ROLE,Gloria Stuart,,,"{""Old Rose""}",NA
+1997,Titanic,ART DIRECTION,Art Direction: Peter Lamont; Set Decoration: Michael Ford ,won,,NA,NA
+1997,Titanic,CINEMATOGRAPHY,Russell Carpenter ,won,,NA,NA
+1997,Titanic,COSTUME DESIGN,Deborah L. Scott ,won,,NA,NA
+1997,Titanic,DIRECTING,James Cameron ,won,,NA,NA
+1997,Titanic,FILM EDITING,"Conrad Buff, James Cameron, Richard A. Harris ",won,,NA,NA
+1997,Titanic,MAKEUP,"Tina Earnshaw, Greg Cannom, Simon Thompson",,,NA,NA
+1997,Titanic,MUSIC,James Horner ,won,,NA,(Original Dramatic Score)
+1997,Titanic,MUSIC,"""My Heart Will Go On,"" Music by James Horner; Lyric by Will Jennings ",won,,NA,(Original Song)
+1997,Titanic,BEST PICTURE,"James Cameron and Jon Landau, Producers ",won,,NA,NA
+1997,Titanic,SOUND,"Gary Rydstrom, Tom Johnson, Gary Summers, Mark Ulano ",won,,NA,NA
+1997,Titanic,SOUND EFFECTS EDITING,"Tom Bellfort, Christopher Boyes ",won,,NA,NA
+1997,Titanic,VISUAL EFFECTS,"Robert Legato, Mark Lasoff, Thomas L. Fisher, Michael Kanfer ",won,,NA,NA
+1953,All about Eve,ACTOR IN A SUPPORTING ROLE,George Sanders ,won,,"{""Addison De Witt""}",NA
+1953,All about Eve,ACTRESS,Anne Baxter,,,"{""Eve Harrington""}",NA
+1953,All about Eve,ACTRESS,Bette Davis,,,"{""Margo Channing""}",NA
+1953,All about Eve,ACTRESS IN A SUPPORTING ROLE,Celeste Holm,,,"{""Karen Richards""}",NA
+1953,All about Eve,ACTRESS IN A SUPPORTING ROLE,Thelma Ritter,,,"{""Birdie""}",NA
+1953,All about Eve,ART DIRECTION,"Art Direction: Lyle Wheeler, George W. Davis; Set Decoration: Thomas Little, Walter M. Scott",,,NA,(Black-and-White)
+1953,All about Eve,CINEMATOGRAPHY,Milton Krasner,,,NA,(Black-and-White)
+1953,All about Eve,COSTUME DESIGN,"Edith Head, Charles LeMaire",won,,NA,(Black-and-White)
+1953,All about Eve,DIRECTING,Joseph L. Mankiewicz ,won,,NA,NA
+1953,All about Eve,FILM EDITING,Barbara McLean,,,NA,NA
+1953,All about Eve,MUSIC,Alfred Newman,,,NA,(Music Score of a Dramatic or Comedy Picture)
+1953,All about Eve,BEST MOTION PICTURE,20th Century-Fox ,won,,NA,NA
+1953,All about Eve,SOUND RECORDING,"20th Century-Fox Studio Sound Department, Thomas T. Moulton, Sound Director",won,,NA,NA
+1953,All about Eve,WRITING,Joseph L. Mankiewicz,won,,NA,(Screenplay)
+2016,La La Land,ACTOR IN A LEADING ROLE,Ryan Gosling,,,"{""Sebastian""}",NA
+2016,La La Land,ACTRESS IN A LEADING ROLE,Emma Stone,won,,"{""Mia""}",NA
+2016,La La Land,CINEMATOGRAPHY,Linus Sandgren,won,,NA,NA
+2016,La La Land,COSTUME DESIGN,Mary Zophres,,,NA,NA
+2016,La La Land,DIRECTING,Damien Chazelle,won,,NA,NA
+2016,La La Land,FILM EDITING,Tom Cross,,,NA,NA
+2016,La La Land,MUSIC,Justin Hurwitz,won,,NA,(Original Score)
+2016,La La Land,MUSIC,"""Audition (The Fools Who Dream),"" Music by Justin Hurwitz; Lyric by Benj Pasek and Justin Paul",,,NA,(Original Song)
+2016,La La Land,MUSIC,"""City of Stars,"" Music by Justin Hurwitz; Lyric by Benj Pasek and Justin Paul",won,,NA,(Original Song)
+2016,La La Land,BEST PICTURE,"Fred Berger, Jordan Horowitz and Marc Platt, Producers",,,NA,NA
+2016,La La Land,PRODUCTION DESIGN,Production Design: David Wasco; Set Decoration: Sandy Reynolds-Wasco,won,,NA,NA
+2016,La La Land,SOUND EDITING,Ai-Ling Lee and Mildred Iatrou Morgan,,,NA,NA
+2016,La La Land,SOUND MIXING,"Andy Nelson, Ai-Ling Lee and Steve A. Morrow",,,NA,NA
+2016,La La Land,WRITING,Written by Damien Chazelle,,,NA,(Original Screenplay)
+2002,Chicago,ACTOR IN A SUPPORTING ROLE,John C. Reilly,,,"{""Amos Hart""}",NA
+2002,Chicago,ACTRESS IN A LEADING ROLE,Renée Zellweger,,,"{""Roxie Hart""}",NA
+2002,Chicago,ACTRESS IN A SUPPORTING ROLE,Queen Latifah,,,"{""Matron Mama Morton""}",NA
+2002,Chicago,ACTRESS IN A SUPPORTING ROLE,Catherine Zeta-Jones,won,,"{""Velma Kelly""}",NA
+2002,Chicago,ART DIRECTION,Art Direction: John Myhre; Set Decoration: Gordon Sim,won,,NA,NA
+2002,Chicago,CINEMATOGRAPHY,Dion Beebe,,,NA,NA
+2002,Chicago,COSTUME DESIGN,Colleen Atwood,won,,NA,NA
+2002,Chicago,DIRECTING,Rob Marshall,,,NA,NA
+2002,Chicago,FILM EDITING,Martin Walsh,won,,NA,NA
+2002,Chicago,MUSIC,"""I Move On,"" Music by John Kander; Lyric by Fred Ebb",,,NA,(Original Song)
+2002,Chicago,BEST PICTURE,"Martin Richards, Producer",won,,NA,NA
+2002,Chicago,SOUND,"Michael Minkler, Dominick Tavella, David Lee",won,,NA,NA
+2002,Chicago,WRITING,Screenplay by Bill Condon,,,NA,(Adapted Screenplay)
+1994,Forrest Gump,ACTOR IN A LEADING ROLE,Tom Hanks,won,,"{""Forrest Gump""}",NA
+1994,Forrest Gump,ACTOR IN A SUPPORTING ROLE,Gary Sinise,,,"{""Lieutenant Dan""}",NA
+1994,Forrest Gump,ART DIRECTION,Art Direction: Rick Carter; Set Decoration: Nancy Haigh,,,NA,NA
+1994,Forrest Gump,CINEMATOGRAPHY,Don Burgess,,,NA,NA
+1994,Forrest Gump,DIRECTING,Robert Zemeckis,won,,NA,NA
+1994,Forrest Gump,FILM EDITING,Arthur Schmidt,won,,NA,NA
+1994,Forrest Gump,MAKEUP,"Daniel C. Striepeke, Hallie D'Amore, Judith A. Cory",,,NA,NA
+1994,Forrest Gump,MUSIC,Alan Silvestri,,,NA,(Original Score)
+1994,Forrest Gump,BEST PICTURE,"Wendy Finerman, Steve Tisch and Steve Starkey, Producers",won,,NA,NA
+1994,Forrest Gump,SOUND,"Randy Thom, Tom Johnson, Dennis Sands, William B. Kaplan",,,NA,NA
+1994,Forrest Gump,SOUND EFFECTS EDITING,"Gloria S. Borders, Randy Thom",,,NA,NA
+1994,Forrest Gump,VISUAL EFFECTS,"Ken Ralston, George Murphy, Stephen Rosenbaum, Allen Hall",won,,NA,NA
+1994,Forrest Gump,WRITING,Eric Roth ,won,,NA,(Screenplay Based on Material Previously Produced or Published)
+1953,From here to Eternity,ACTOR,Montgomery Clift,,,"{""Robert E. Lee Prewitt""}",NA
+1953,From here to Eternity,ACTOR,Burt Lancaster,,,"{""Sgt. Milton Warden""}",NA
+1953,From here to Eternity,ACTOR IN A SUPPORTING ROLE,Frank Sinatra,won,,"{""Angelo Maggio""}",NA
+1953,From here to Eternity,ACTRESS,Deborah Kerr,,,"{""Karen Holmes""}",NA
+1953,From here to Eternity,ACTRESS IN A SUPPORTING ROLE,Donna Reed,won,,"{""Lorene/Alma""}",NA
+1953,From here to Eternity,CINEMATOGRAPHY,Burnett Guffey,won,,NA,(Black-and-White)
+1953,From here to Eternity,COSTUME DESIGN,Jean Louis,,,NA,(Black-and-White)
+1953,From here to Eternity,DIRECTING,Fred Zinnemann,won,,NA,NA
+1953,From here to Eternity,FILM EDITING,William Lyon,won,,NA,NA
+1953,From here to Eternity,MUSIC,"Morris Stoloff, George Duning",,,NA,(Music Score of a Dramatic or Comedy Picture)
+1953,From here to Eternity,BEST MOTION PICTURE,"Buddy Adler, Producer",won,,NA,NA
+1953,From here to Eternity,SOUND RECORDING,"Columbia Studio Sound Department, John P. Livadary, Sound Director",won,,NA,NA
+1953,From here to Eternity,WRITING,Daniel Taradash ,won,,NA,(Screenplay)
+1939,Gone with the Wind,ACTOR,Clark Gable,,,"{""Rhett Butler""}",NA
+1939,Gone with the Wind,ACTRESS,Vivien Leigh,won,,"{""Scarlett O'Hara""}",NA
+1939,Gone with the Wind,ACTRESS IN A SUPPORTING ROLE,Olivia de Havilland,,,"{""Melanie Hamilton""}",NA
+1939,Gone with the Wind,ACTRESS IN A SUPPORTING ROLE,Hattie McDaniel,won,,"{""Mammy""}",NA
+1939,Gone with the Wind,ART DIRECTION,Lyle Wheeler,won,,NA,NA
+1939,Gone with the Wind,CINEMATOGRAPHY,"Ernest Haller, Ray Rennahan",won,,NA,(Color)
+1939,Gone with the Wind,DIRECTING,Victor Fleming,won,,NA,NA
+1939,Gone with the Wind,FILM EDITING,"Hal C. Kern, James E. Newcom",won,,NA,NA
+1939,Gone with the Wind,MUSIC,Max Steiner,,,NA,(Original Score)
+1939,Gone with the Wind,OUTSTANDING PRODUCTION,Selznick International Pictures,won,,NA,NA
+1939,Gone with the Wind,SOUND RECORDING,"Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",,,NA,NA
+1939,Gone with the Wind,SPECIAL EFFECTS,"John R. Cosgrove, Fred Albin, Arthur Johns",,,NA,NA
+1939,Gone with the Wind,WRITING,Sidney Howard,won,,NA,(Screenplay)
+1964,Mary Poppins,ACTRESS,Julie Andrews,won,,"{""Mary Poppins""}",NA
+1964,Mary Poppins,ART DIRECTION,"Art Direction: Carroll Clark, William H. Tuntke; Set Decoration: Emile Kuri, Hal Gausman",,,NA,(Color)
+1964,Mary Poppins,CINEMATOGRAPHY,Edward Colman,,,NA,(Color)
+1964,Mary Poppins,COSTUME DESIGN,Tony Walton,,,NA,(Color)
+1964,Mary Poppins,DIRECTING,Robert Stevenson,,,NA,NA
+1964,Mary Poppins,FILM EDITING,Cotton Warburton,won,,NA,NA
+1964,Mary Poppins,MUSIC,"Richard M. Sherman, Robert B. Sherman",won,,NA,(Music Score--substantially original)
+1964,Mary Poppins,MUSIC,Irwin Kostal,,,NA,(Scoring of Music--adaptation or treatment)
+1964,Mary Poppins,MUSIC,"""Chim Chim Cher-ee,"" Music and Lyrics by Richard M. Sherman and Robert B. Sherman",won,,NA,(Song)
+1964,Mary Poppins,BEST PICTURE,"Walt Disney and Bill Walsh, Producers",,,NA,NA
+1964,Mary Poppins,SOUND,"Walt Disney Studio Sound Department, Robert O. Cook, Sound Director",,,NA,NA
+1964,Mary Poppins,SPECIAL VISUAL EFFECTS,"Peter Ellenshaw, Eustace Lycett, Hamilton Luske",won,,NA,NA
+1964,Mary Poppins,WRITING,"Bill Walsh, Don DaGradi",,,NA,(Screenplay--based on material from another medium)
+1998,Shakespeare in Love,ACTOR IN A SUPPORTING ROLE,Geoffrey Rush,,,"{""Philip Henslowe""}",NA
+1998,Shakespeare in Love,ACTRESS IN A LEADING ROLE,Gwyneth Paltrow,won,,"{""Viola De Lesseps""}",NA
+1998,Shakespeare in Love,ACTRESS IN A SUPPORTING ROLE,Judi Dench,won,,"{""Queen Elizabeth I""}",NA
+1998,Shakespeare in Love,ART DIRECTION,Art Direction: Martin Childs; Set Decoration: Jill Quertier,won,,NA,NA
+1998,Shakespeare in Love,CINEMATOGRAPHY,Richard Greatrex,,,NA,NA
+1998,Shakespeare in Love,COSTUME DESIGN,Sandy Powell,won,,NA,NA
+1998,Shakespeare in Love,DIRECTING,John Madden,,,NA,NA
+1998,Shakespeare in Love,FILM EDITING,David Gamble,,,NA,NA
+1998,Shakespeare in Love,MAKEUP,"Lisa Westcott, Veronica Brebner",,,NA,NA
+1998,Shakespeare in Love,MUSIC,Stephen Warbeck ,won,,NA,(Original Musical or Comedy Score)
+1998,Shakespeare in Love,BEST PICTURE,"David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick and Marc Norman, Producers ",won,,NA,NA
+1998,Shakespeare in Love,SOUND,"Robin O'Donoghue, Dominic Lester, Peter Glossop",,,NA,NA
+1998,Shakespeare in Love,WRITING,"Marc Norman, Tom Stoppard ",won,,NA,(Screenplay Written Directly for the Screen)
+2008,The Curious Case of Benjamin Button,ACTOR IN A LEADING ROLE,Brad Pitt,,,"{""Benjamin Button""}",NA
+2008,The Curious Case of Benjamin Button,ACTRESS IN A SUPPORTING ROLE,Taraji P. Henson,,,"{""Queenie""}",NA
+2008,The Curious Case of Benjamin Button,ART DIRECTION,Art Direction: Donald Graham Burt; Set Decoration: Victor J. Zolfo,won,,NA,NA
+2008,The Curious Case of Benjamin Button,CINEMATOGRAPHY,Claudio Miranda,,,NA,NA
+2008,The Curious Case of Benjamin Button,COSTUME DESIGN,Jacqueline West,,,NA,NA
+2008,The Curious Case of Benjamin Button,DIRECTING,David Fincher,,,NA,NA
+2008,The Curious Case of Benjamin Button,FILM EDITING,Kirk Baxter and Angus Wall,,,NA,NA
+2008,The Curious Case of Benjamin Button,MAKEUP,Greg Cannom,won,,NA,NA
+2008,The Curious Case of Benjamin Button,MUSIC,Alexandre Desplat,,,NA,(Original Score)
+2008,The Curious Case of Benjamin Button,BEST PICTURE,"Kathleen Kennedy, Frank Marshall and Ceán Chaffin, Producers",,,NA,NA
+2008,The Curious Case of Benjamin Button,SOUND MIXING,"David Parker, Michael Semanick, Ren Klyce and Mark Weingarten",,,NA,NA
+2008,The Curious Case of Benjamin Button,VISUAL EFFECTS,"Eric Barba, Steve Preeg, Burt Dalton and Craig Barron",won,,NA,NA
+2008,The Curious Case of Benjamin Button,WRITING,Screenplay by Eric Roth; Screen story by Eric Roth and Robin Swicord,,,NA,(Adapted Screenplay)
+2001,The Lord of the Rings: The Fellowship of the Ring,ACTOR IN A SUPPORTING ROLE,Ian McKellen,,,"{""Gandalf""}",NA
+2001,The Lord of the Rings: The Fellowship of the Ring,ART DIRECTION,Art Direction: Grant Major; Set Decoration: Dan Hennah,,,NA,NA
+2001,The Lord of the Rings: The Fellowship of the Ring,CINEMATOGRAPHY,Andrew Lesnie,won,,NA,NA
+2001,The Lord of the Rings: The Fellowship of the Ring,COSTUME DESIGN,"Ngila Dickson, Richard Taylor",,,NA,NA
+2001,The Lord of the Rings: The Fellowship of the Ring,DIRECTING,Peter Jackson,,,NA,NA
+2001,The Lord of the Rings: The Fellowship of the Ring,FILM EDITING,John Gilbert,,,NA,NA
+2001,The Lord of the Rings: The Fellowship of the Ring,MAKEUP,"Peter Owen, Richard Taylor",won,,NA,NA
+2001,The Lord of the Rings: The Fellowship of the Ring,MUSIC,Howard Shore,won,,NA,(Original Score)
+2001,The Lord of the Rings: The Fellowship of the Ring,MUSIC,"""May It Be,"" Music and Lyric by Enya, Nicky Ryan and Roma Ryan",,,NA,(Original Song)
+2001,The Lord of the Rings: The Fellowship of the Ring,BEST PICTURE,"Peter Jackson, Fran Walsh and Barrie M. Osborne, Producers",,,NA,NA
+2001,The Lord of the Rings: The Fellowship of the Ring,SOUND,"Christopher Boyes, Michael Semanick, Gethin Creagh, Hammond Peek",,,NA,NA
+2001,The Lord of the Rings: The Fellowship of the Ring,VISUAL EFFECTS,"Jim Rygiel, Randall William Cook, Richard Taylor, Mark Stetson",won,,NA,NA
+2001,The Lord of the Rings: The Fellowship of the Ring,WRITING,"Screenplay by Fran Walsh, Philippa Boyens, Peter Jackson",,,NA,(Screenplay Based on Material Previously Produced or Published)
+2017,The Shape of Water,ACTOR IN A SUPPORTING ROLE,Richard Jenkins,,,"{""Giles""}",NA
+2017,The Shape of Water,ACTRESS IN A LEADING ROLE,Sally Hawkins,,,"{""Elisa Esposito""}",NA
+2017,The Shape of Water,ACTRESS IN A SUPPORTING ROLE,Octavia Spencer,,,"{""Zelda Fuller""}",NA
+2017,The Shape of Water,CINEMATOGRAPHY,Dan Laustsen,,,NA,NA
+2017,The Shape of Water,COSTUME DESIGN,Luis Sequeira,,,NA,NA
+2017,The Shape of Water,DIRECTING,Guillermo del Toro,won,,NA,NA
+2017,The Shape of Water,FILM EDITING,Sidney Wolinsky,,,NA,NA
+2017,The Shape of Water,MUSIC,Alexandre Desplat,won,,NA,(Original Score)
+2017,The Shape of Water,BEST PICTURE,"Guillermo del Toro and J. Miles Dale, Producers",won,,NA,NA
+2017,The Shape of Water,PRODUCTION DESIGN,Production Design: Paul Denham Austerberry; Set Decoration: Shane Vieau and Jeffrey A. Melvin,won,,NA,NA
+2017,The Shape of Water,SOUND EDITING,Nathan Robitaille and Nelson Ferreira,,,NA,NA
+2017,The Shape of Water,SOUND MIXING,"Christian Cooke, Brad Zoern and Glen Gauthier",,,NA,NA
+2017,The Shape of Water,WRITING,Screenplay by Guillermo del Toro & Vanessa Taylor; Story by Guillermo del Toro,,,NA,(Original Screenplay)
+1966,Who's Afraid of Virginia Woolf?,ACTOR,Richard Burton,,,"{""George""}",NA
+1966,Who's Afraid of Virginia Woolf?,ACTOR IN A SUPPORTING ROLE,George Segal,,,"{""Nick""}",NA
+1966,Who's Afraid of Virginia Woolf?,ACTRESS,Elizabeth Taylor,won,,"{""Martha""}",NA
+1966,Who's Afraid of Virginia Woolf?,ACTRESS IN A SUPPORTING ROLE,Sandy Dennis,won,,"{""Honey""}",NA
+1966,Who's Afraid of Virginia Woolf?,ART DIRECTION,Art Direction: Richard Sylbert; Set Decoration: George James Hopkins,won,,NA,(Black-and-White)
+1966,Who's Afraid of Virginia Woolf?,CINEMATOGRAPHY,Haskell Wexler,won,,NA,(Black-and-White)
+1966,Who's Afraid of Virginia Woolf?,COSTUME DESIGN,Irene Sharaff,won,,NA,(Black-and-White)
+1966,Who's Afraid of Virginia Woolf?,DIRECTING,Mike Nichols,,,NA,NA
+1966,Who's Afraid of Virginia Woolf?,FILM EDITING,Sam O'Steen,,,NA,NA
+1966,Who's Afraid of Virginia Woolf?,MUSIC,Alex North,,,NA,(Original Music Score)
+1966,Who's Afraid of Virginia Woolf?,BEST PICTURE,"Ernest Lehman, Producer",,,NA,NA
+1966,Who's Afraid of Virginia Woolf?,SOUND,"Warner Bros. Studio Sound Department, George R. Groves, Sound Director",,,NA,NA
+1966,Who's Afraid of Virginia Woolf?,WRITING,Ernest Lehman,,,NA,(Screenplay--based on material from another medium)
+1951,A Streetcar Named Desire,ACTOR,Marlon Brando,,,"{""Stanley Kowalski""}",NA
+1951,A Streetcar Named Desire,ACTOR IN A SUPPORTING ROLE,Karl Malden,won,,"{""Mitch""}",NA
+1951,A Streetcar Named Desire,ACTRESS,Vivien Leigh,won,,"{""Blanche DuBois""}",NA
+1951,A Streetcar Named Desire,ACTRESS IN A SUPPORTING ROLE,Kim Hunter,won,,"{""Stella Kowalski""}",NA
+1951,A Streetcar Named Desire,ART DIRECTION,Art Direction: Richard Day; Set Decoration: George James Hopkins,won,,NA,(Black-and-White)
+1951,A Streetcar Named Desire,CINEMATOGRAPHY,Harry Stradling,,,NA,(Black-and-White)
+1951,A Streetcar Named Desire,COSTUME DESIGN,Lucinda Ballard,,,NA,(Black-and-White)
+1951,A Streetcar Named Desire,DIRECTING,Elia Kazan,,,NA,NA
+1951,A Streetcar Named Desire,MUSIC,Alex North ,,,NA,(Music Score of a Dramatic or Comedy Picture)
+1951,A Streetcar Named Desire,BEST MOTION PICTURE,"Charles K. Feldman, Producer",,,NA,NA
+1951,A Streetcar Named Desire,SOUND RECORDING,"Warner Bros. Studio Sound Department, Col. Nathan Levinson, Sound Director ",,,NA,NA
+1951,A Streetcar Named Desire,WRITING,Tennessee Williams,,,NA,(Screenplay)
+1964,Becket,ACTOR,Richard Burton,,,"{""Thomas Becket""}",NA
+1964,Becket,ACTOR,Peter O'Toole,,,"{""King Henry II""}",NA
+1964,Becket,ACTOR IN A SUPPORTING ROLE,John Gielgud,,,"{""King Louis VII of France""}",NA
+1964,Becket,ART DIRECTION,"Art Direction: John Bryan, Maurice Carter; Set Decoration: Patrick McLoughlin, Robert Cartwright",,,NA,(Color)
+1964,Becket,CINEMATOGRAPHY,Geoffrey Unsworth,,,NA,(Color)
+1964,Becket,COSTUME DESIGN,Margaret Furse,,,NA,(Color)
+1964,Becket,DIRECTING,Peter Glenville,,,NA,NA
+1964,Becket,FILM EDITING,Anne Coates,,,NA,NA
+1964,Becket,MUSIC,Laurence Rosenthal,,,NA,(Music Score--substantially original)
+1964,Becket,BEST PICTURE,"Hal B. Wallis, Producer",,,NA,NA
+1964,Becket,SOUND,"Shepperton Studio Sound Department, John Cox, Sound Director",,,NA,NA
+1964,Becket,WRITING,Edward Anhalt,won,,NA,(Screenplay--based on material from another medium)
+1959,Ben-Hur,ACTOR,Charlton Heston,won,,"{""Judah Ben-Hur""}",NA
+1959,Ben-Hur,ACTOR IN A SUPPORTING ROLE,Hugh Griffith,won,,"{""Sheik Ilderim""}",NA
+1959,Ben-Hur,ART DIRECTION,"Art Direction: William A. Horning, Edward Carfagno; Set Decoration: Hugh Hunt",won,,NA,(Color)
+1959,Ben-Hur,CINEMATOGRAPHY,Robert L. Surtees,won,,NA,(Color)
+1959,Ben-Hur,COSTUME DESIGN,Elizabeth Haffenden,won,,NA,(Color)
+1959,Ben-Hur,DIRECTING,William Wyler,won,,NA,NA
+1959,Ben-Hur,FILM EDITING,"Ralph E. Winters, John D. Dunning",won,,NA,NA
+1959,Ben-Hur,MUSIC,Miklos Rozsa,won,,NA,(Music Score of a Dramatic or Comedy Picture)
+1959,Ben-Hur,BEST MOTION PICTURE,"Sam Zimbalist, Producer",won,,NA,NA
+1959,Ben-Hur,SOUND,"Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",won,,NA,NA
+1959,Ben-Hur,SPECIAL EFFECTS,"Visual Effects by A. Arnold Gillespie, Robert MacDonald; Audible Effects by Milo Lory",won,,NA,NA
+1959,Ben-Hur,WRITING,Karl Tunberg,,,NA,(Screenplay--based on material from another medium)
+1990,Dances With Wolves,ACTOR IN A LEADING ROLE,Kevin Costner,,,"{""Lieutenant Dunbar""}",NA
+1990,Dances With Wolves,ACTOR IN A SUPPORTING ROLE,Graham Greene,,,"{""Kicking Bird""}",NA
+1990,Dances With Wolves,ACTRESS IN A SUPPORTING ROLE,Mary McDonnell,,,"{""Stands With A Fist""}",NA
+1990,Dances With Wolves,ART DIRECTION,Art Direction: Jeffrey Beecroft; Set Decoration: Lisa Dean,,,NA,NA
+1990,Dances With Wolves,CINEMATOGRAPHY,Dean Semler,won,,NA,NA
+1990,Dances With Wolves,COSTUME DESIGN,Elsa Zamparelli,,,NA,NA
+1990,Dances With Wolves,DIRECTING,Kevin Costner,won,,NA,NA
+1990,Dances With Wolves,FILM EDITING,Neil Travis,won,,NA,NA
+1990,Dances With Wolves,MUSIC,John Barry,won,,NA,(Original Score)
+1990,Dances With Wolves,BEST PICTURE,"Jim Wilson and Kevin Costner, Producers",won,,NA,NA
+1990,Dances With Wolves,SOUND,"Jeffrey Perkins, Bill W. Benton, Greg Watkins, Russell Williams II",won,,NA,NA
+1990,Dances With Wolves,WRITING,Michael Blake ,won,,NA,(Screenplay Based on Material from Another Medium)
+2000,Gladiator,ACTOR IN A LEADING ROLE,Russell Crowe,won,,"{""Maximus Decimus Meridius""}",NA
+2000,Gladiator,ACTOR IN A SUPPORTING ROLE,Joaquin Phoenix,,,"{""Commodus""}",NA
+2000,Gladiator,ART DIRECTION,Art Direction: Arthur Max; Set Decoration: Crispian Sallis,,,NA,NA
+2000,Gladiator,CINEMATOGRAPHY,John Mathieson,,,NA,NA
+2000,Gladiator,COSTUME DESIGN,Janty Yates,won,,NA,NA
+2000,Gladiator,DIRECTING,Ridley Scott,,,NA,NA
+2000,Gladiator,FILM EDITING,Pietro Scalia,,,NA,NA
+2000,Gladiator,MUSIC,Hans Zimmer,,,NA,(Original Score)
+2000,Gladiator,BEST PICTURE,"Douglas Wick, David Franzoni and Branko Lustig, Producers",won,,NA,NA
+2000,Gladiator,SOUND,"Scott Millan, Bob Beemer, Ken Weston",won,,NA,NA
+2000,Gladiator,VISUAL EFFECTS,"John Nelson, Neil Corbould, Tim Burke, Rob Harvey",won,,NA,NA
+2000,Gladiator,WRITING,Screenplay by David Franzoni and John Logan and William Nicholson; Story by David Franzoni,,,NA,(Screenplay Written Directly for the Screen)
+1948,Johnny Belinda,ACTOR,Lew Ayres,,,"{""Dr. Robert Richardson""}",NA
+1948,Johnny Belinda,ACTOR IN A SUPPORTING ROLE,Charles Bickford,,,"{""Black McDonald""}",NA
+1948,Johnny Belinda,ACTRESS,Jane Wyman,won,,"{""Belinda McDonald""}",NA
+1948,Johnny Belinda,ACTRESS IN A SUPPORTING ROLE,Agnes Moorehead,,,"{""Aggie McDonald""}",NA
+1948,Johnny Belinda,ART DIRECTION,Art Direction: Robert Haas; Set Decoration: William Wallace,,,NA,(Black-and-White)
+1948,Johnny Belinda,CINEMATOGRAPHY,Ted McCord,,,NA,(Black-and-White)
+1948,Johnny Belinda,DIRECTING,Jean Negulesco,,,NA,NA
+1948,Johnny Belinda,FILM EDITING,David Weisbart,,,NA,NA
+1948,Johnny Belinda,MUSIC,Max Steiner,,,NA,(Music Score of a Dramatic or Comedy Picture)
+1948,Johnny Belinda,BEST MOTION PICTURE,Warner Bros.,,,NA,NA
+1948,Johnny Belinda,SOUND RECORDING,"Warner Bros. Studio Sound Department, Col. Nathan O. Levinson, Sound Director",,,NA,NA
+1948,Johnny Belinda,WRITING,"Irmgard Von Cube, Allen Vincent",,,NA,(Screenplay)
+2012,Lincoln,ACTOR IN A LEADING ROLE,Daniel Day-Lewis ,won,,"{""Abraham Lincoln""}",NA
+2012,Lincoln,ACTOR IN A SUPPORTING ROLE,Tommy Lee Jones,,,"{""Thaddeus Stevens""}",NA
+2012,Lincoln,ACTRESS IN A SUPPORTING ROLE,Sally Field,,,"{""Mary Todd Lincoln""}",NA
+2012,Lincoln,CINEMATOGRAPHY,Janusz Kaminski,,,NA,NA
+2012,Lincoln,COSTUME DESIGN,Joanna Johnston,,,NA,NA
+2012,Lincoln,DIRECTING,Steven Spielberg,,,NA,NA
+2012,Lincoln,FILM EDITING,Michael Kahn,,,NA,NA
+2012,Lincoln,MUSIC,John Williams,,,NA,(Original Score)
+2012,Lincoln,BEST PICTURE,"Steven Spielberg and Kathleen Kennedy, Producers",,,NA,NA
+2012,Lincoln,PRODUCTION DESIGN,Production Design: Rick Carter; Set Decoration: Jim Erickson,won,,NA,NA
+2012,Lincoln,SOUND MIXING,"Andy Nelson, Gary Rydstrom and Ronald Judkins",,,NA,NA
+2012,Lincoln,WRITING,Screenplay by Tony Kushner,,,NA,(Adapted Screenplay)
+1942,Mrs. Miniver,ACTOR,Walter Pidgeon,,,"{""Clem Miniver""}",NA
+1942,Mrs. Miniver,ACTOR IN A SUPPORTING ROLE,Henry Travers,,,"{""Mr. Ballard""}",NA
+1942,Mrs. Miniver,ACTRESS,Greer Garson,won,,"{""Kay Miniver""}",NA
+1942,Mrs. Miniver,ACTRESS IN A SUPPORTING ROLE,Dame May Whitty,,,"{""Lady Beldon""}",NA
+1942,Mrs. Miniver,ACTRESS IN A SUPPORTING ROLE,Teresa Wright,won,,"{""Carol Beldon""}",NA
+1942,Mrs. Miniver,CINEMATOGRAPHY,Joseph Ruttenberg,won,,NA,(Black-and-White)
+1942,Mrs. Miniver,DIRECTING,William Wyler,won,,NA,NA
+1942,Mrs. Miniver,FILM EDITING,Harold F. Kress,,,NA,NA
+1942,Mrs. Miniver,OUTSTANDING MOTION PICTURE,Metro-Goldwyn-Mayer,won,,NA,NA
+1942,Mrs. Miniver,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",,,NA,NA
+1942,Mrs. Miniver,SPECIAL EFFECTS,"Photographic Effects by A. Arnold Gillespie, Warren Newcombe; Sound Effects by Douglas Shearer",,,NA,NA
+1942,Mrs. Miniver,WRITING,"Arthur Wimperis, George Froeschel, James Hilton, Claudine West",won,,NA,(Screenplay)
+1964,My Fair Lady,ACTOR,Rex Harrison,won,,"{""Professor Henry Higgins""}",NA
+1964,My Fair Lady,ACTOR IN A SUPPORTING ROLE,Stanley Holloway,,,"{""Alfred P. Doolittle""}",NA
+1964,My Fair Lady,ACTRESS IN A SUPPORTING ROLE,Gladys Cooper,,,"{""Mrs. Higgins""}",NA
+1964,My Fair Lady,ART DIRECTION,"Art Direction: Gene Allen, Cecil Beaton; Set Decoration: George James Hopkins",won,,NA,(Color)
+1964,My Fair Lady,CINEMATOGRAPHY,Harry Stradling,won,,NA,(Color)
+1964,My Fair Lady,COSTUME DESIGN,Cecil Beaton,won,,NA,(Color)
+1964,My Fair Lady,DIRECTING,George Cukor,won,,NA,NA
+1964,My Fair Lady,FILM EDITING,William Ziegler,,,NA,NA
+1964,My Fair Lady,MUSIC,Andre Previn,won,,NA,(Scoring of Music--adaptation or treatment)
+1964,My Fair Lady,BEST PICTURE,"Jack L. Warner, Producer",won,,NA,NA
+1964,My Fair Lady,SOUND,"Warner Bros. Studio Sound Department, George R. Groves, Sound Director",won,,NA,NA
+1964,My Fair Lady,WRITING,Alan Jay Lerner,,,NA,(Screenplay--based on material from another medium)
+1954,On the Waterfront,ACTOR,Marlon Brando,,,"{""Terry Malloy""}",NA
+1954,On the Waterfront,ACTOR IN A SUPPORTING ROLE,Lee J. Cobb,won,,"{""Johnny Friendly""}",NA
+1954,On the Waterfront,ACTOR IN A SUPPORTING ROLE,Karl Malden,,,"{""Father Barry""}",NA
+1954,On the Waterfront,ACTOR IN A SUPPORTING ROLE,Rod Steiger,,,"{""Charles Malloy""}",NA
+1954,On the Waterfront,ACTRESS IN A SUPPORTING ROLE,Eva Marie Saint,won,,"{""Edie Doyle""}",NA
+1954,On the Waterfront,ART DIRECTION,Richard Day,won,,NA,(Black-and-White)
+1954,On the Waterfront,CINEMATOGRAPHY,Boris Kaufman,won,,NA,(Black-and-White)
+1954,On the Waterfront,DIRECTING,Elia Kazan,won,,NA,NA
+1954,On the Waterfront,FILM EDITING,Gene Milford,won,,NA,NA
+1954,On the Waterfront,MUSIC,Leonard Bernstein,,,NA,(Music Score of a Dramatic or Comedy Picture)
+1954,On the Waterfront,BEST MOTION PICTURE,"Sam Spiegel, Producer",won,,NA,NA
+1954,On the Waterfront,WRITING,Budd Schulberg ,won,,NA,(Story and Screenplay)
+1981,Reds,ACTOR IN A LEADING ROLE,Warren Beatty,,,"{""John 'Jack' Reed""}",NA
+1981,Reds,ACTOR IN A SUPPORTING ROLE,Jack Nicholson,,,"{""Eugene O'Neill""}",NA
+1981,Reds,ACTRESS IN A LEADING ROLE,Diane Keaton,,,"{""Louise Bryant""}",NA
+1981,Reds,ACTRESS IN A SUPPORTING ROLE,Maureen Stapleton,won,,"{""Emma Goldman""}",NA
+1981,Reds,ART DIRECTION,Art Direction: Richard Sylbert; Set Decoration: Michael Seirton,,,NA,NA
+1981,Reds,CINEMATOGRAPHY,Vittorio Storaro,won,,NA,NA
+1981,Reds,COSTUME DESIGN,Shirley Russell,,,NA,NA
+1981,Reds,DIRECTING,Warren Beatty,won,,NA,NA
+1981,Reds,FILM EDITING,"Dede Allen, Craig McKay",,,NA,NA
+1981,Reds,BEST PICTURE,"Warren Beatty, Producer",,,NA,NA
+1981,Reds,SOUND,"Dick Vorisek, Tom Fleischman, Simon Kaye",,,NA,NA
+1981,Reds,WRITING,"Warren Beatty, Trevor Griffiths",,,NA,(Screenplay Written Directly for the Screen)
+1993,Schindler's List,ACTOR IN A LEADING ROLE,Liam Neeson,,,"{""Oskar Schindler""}",NA
+1993,Schindler's List,ACTOR IN A SUPPORTING ROLE,Ralph Fiennes,,,"{""Amon Goeth""}",NA
+1993,Schindler's List,ART DIRECTION,Art Direction: Allan Starski; Set Decoration: Ewa Braun,won,,NA,NA
+1993,Schindler's List,CINEMATOGRAPHY,Janusz Kaminski,won,,NA,NA
+1993,Schindler's List,COSTUME DESIGN,Anna Biedrzycka-Sheppard,,,NA,NA
+1993,Schindler's List,DIRECTING,Steven Spielberg,won,,NA,NA
+1993,Schindler's List,FILM EDITING,Michael Kahn,won,,NA,NA
+1993,Schindler's List,MAKEUP,"Christina Smith, Matthew Mungle, Judy Alexander Cory",,,NA,NA
+1993,Schindler's List,MUSIC,John Williams,won,,NA,(Original Score)
+1993,Schindler's List,BEST PICTURE,"Steven Spielberg, Gerald R. Molen and Branko Lustig, Producers",won,,NA,NA
+1993,Schindler's List,SOUND,"Andy Nelson, Steve Pederson, Scott Millan, Ron Judkins",,,NA,NA
+1993,Schindler's List,WRITING,Steven Zaillian ,won,,NA,(Screenplay Based on Material Previously Produced or Published)
+1996,The English Patient,ACTOR IN A LEADING ROLE,Ralph Fiennes,,,"{""Almasy""}",NA
+1996,The English Patient,ACTRESS IN A LEADING ROLE,Kristin Scott Thomas,,,"{""Katharine Clifton""}",NA
+1996,The English Patient,ACTRESS IN A SUPPORTING ROLE,Juliette Binoche,won,,"{""Hana""}",NA
+1996,The English Patient,ART DIRECTION,Art Direction: Stuart Craig; Set Decoration: Stephenie McMillan,won,,NA,NA
+1996,The English Patient,CINEMATOGRAPHY,John Seale,won,,NA,NA
+1996,The English Patient,COSTUME DESIGN,Ann Roth,won,,NA,NA
+1996,The English Patient,DIRECTING,Anthony Minghella,won,,NA,NA
+1996,The English Patient,FILM EDITING,Walter Murch,won,,NA,NA
+1996,The English Patient,MUSIC,Gabriel Yared,won,,NA,(Original Dramatic Score)
+1996,The English Patient,BEST PICTURE,"Saul Zaentz, Producer",won,,NA,NA
+1996,The English Patient,SOUND,"Walter Murch, Mark Berger, David Parker, Chris Newman",won,,NA,NA
+1996,The English Patient,WRITING,Anthony Minghella,,,NA,(Screenplay Based on Material Previously Produced or Published)
+2010,The King's Speech,ACTOR IN A LEADING ROLE,Colin Firth,won,,"{""King George VI""}",NA
+2010,The King's Speech,ACTOR IN A SUPPORTING ROLE,Geoffrey Rush,,,"{""Lionel Logue""}",NA
+2010,The King's Speech,ACTRESS IN A SUPPORTING ROLE,Helena Bonham Carter,,,"{""Queen Elizabeth""}",NA
+2010,The King's Speech,ART DIRECTION,Production Design: Eve Stewart; Set Decoration: Judy Farr,,,NA,NA
+2010,The King's Speech,CINEMATOGRAPHY,Danny Cohen,,,NA,NA
+2010,The King's Speech,COSTUME DESIGN,Jenny Beavan,,,NA,NA
+2010,The King's Speech,DIRECTING,Tom Hooper,won,,NA,NA
+2010,The King's Speech,FILM EDITING,Tariq Anwar,,,NA,NA
+2010,The King's Speech,MUSIC,Alexandre Desplat,,,NA,(Original Score)
+2010,The King's Speech,BEST PICTURE,"Iain Canning, Emile Sherman and Gareth Unwin, Producers",won,,NA,NA
+2010,The King's Speech,SOUND MIXING,"Paul Hamblin, Martin Jensen and John Midgley",,,NA,NA
+2010,The King's Speech,WRITING,Screenplay by David Seidler,won,,NA,(Original Screenplay)
+2021,The Power of the Dog,ACTOR IN A LEADING ROLE,Benedict Cumberbatch,,,"{""Phil Burbank""}",NA
+2021,The Power of the Dog,ACTOR IN A SUPPORTING ROLE,Jesse Plemons,,,"{""George Burbank""}",NA
+2021,The Power of the Dog,ACTOR IN A SUPPORTING ROLE,Kodi Smit-McPhee,,,"{""Peter Gordon""}",NA
+2021,The Power of the Dog,ACTRESS IN A SUPPORTING ROLE,Kirsten Dunst,,,"{""Rose Gordon""}",NA
+2021,The Power of the Dog,CINEMATOGRAPHY,Ari Wegner,,,NA,NA
+2021,The Power of the Dog,DIRECTING,Jane Campion,won,,NA,NA
+2021,The Power of the Dog,FILM EDITING,Peter Sciberras,,,NA,NA
+2021,The Power of the Dog,MUSIC,Jonny Greenwood,,,NA,(Original Score)
+2021,The Power of the Dog,BEST PICTURE,"Jane Campion, Tanya Seghatchian, Emile Sherman, Iain Canning and Roger Frappier, Producers",,,NA,NA
+2021,The Power of the Dog,PRODUCTION DESIGN,Production Design: Grant Major; Set Decoration: Amber Richards,,,NA,NA
+2021,The Power of the Dog,SOUND,"Richard Flynn, Robert Mackenzie and Tara Webb",,,NA,NA
+2021,The Power of the Dog,WRITING,Written by Jane Campion,,,NA,(Adapted Screenplay)
+2015,The Revenant,ACTOR IN A LEADING ROLE,Leonardo DiCaprio ,won,,"{""Hugh Glass""}",NA
+2015,The Revenant,ACTOR IN A SUPPORTING ROLE,Tom Hardy,,,"{""John Fitzgerald""}",NA
+2015,The Revenant,CINEMATOGRAPHY,Emmanuel Lubezki,won,,NA,NA
+2015,The Revenant,COSTUME DESIGN,Jacqueline West,,,NA,NA
+2015,The Revenant,DIRECTING,Alejandro G. Iñárritu,won,,NA,NA
+2015,The Revenant,FILM EDITING,Stephen Mirrione,,,NA,NA
+2015,The Revenant,MAKEUP AND HAIRSTYLING,"Siân Grigg, Duncan Jarman and Robert Pandini",,,NA,NA
+2015,The Revenant,BEST PICTURE,"Arnon Milchan, Steve Golin, Alejandro G. Iñárritu, Mary Parent and Keith Redmon, Producers",,,NA,NA
+2015,The Revenant,PRODUCTION DESIGN,Production Design: Jack Fisk; Set Decoration: Hamish Purdy,,,NA,NA
+2015,The Revenant,SOUND EDITING,Martin Hernandez and Lon Bender,,,NA,NA
+2015,The Revenant,SOUND MIXING,"Jon Taylor, Frank A. Montaño, Randy Thom and Chris Duesterdiek",,,NA,NA
+2015,The Revenant,VISUAL EFFECTS,"Rich McBride, Matthew Shumway, Jason Smith and Cameron Waldbauer",,,NA,NA
+1943,The Song of Bernadette,ACTOR IN A SUPPORTING ROLE,Charles Bickford,,,"{""Dean Peyramale""}",NA
+1943,The Song of Bernadette,ACTRESS,Jennifer Jones,won,,"{""Bernadette Soubirous""}",NA
+1943,The Song of Bernadette,ACTRESS IN A SUPPORTING ROLE,Gladys Cooper,,,"{""Sister Vauzous""}",NA
+1943,The Song of Bernadette,ACTRESS IN A SUPPORTING ROLE,Anne Revere,,,"{""Louise Soubirous""}",NA
+1943,The Song of Bernadette,ART DIRECTION,"Art Direction: James Basevi, William Darling; Interior Decoration: Thomas Little",won,,NA,(Black-and-White)
+1943,The Song of Bernadette,CINEMATOGRAPHY,Arthur Miller,won,,NA,(Black-and-White)
+1943,The Song of Bernadette,DIRECTING,Henry King,,,NA,NA
+1943,The Song of Bernadette,FILM EDITING,Barbara McLean,,,NA,NA
+1943,The Song of Bernadette,MUSIC,Alfred Newman,won,,NA,(Music Score of a Dramatic or Comedy Picture)
+1943,The Song of Bernadette,OUTSTANDING MOTION PICTURE,20th Century-Fox,,,NA,NA
+1943,The Song of Bernadette,SOUND RECORDING,"20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",,,NA,NA
+1943,The Song of Bernadette,WRITING,George Seaton,,,NA,(Screenplay)
+1984,A Passage to India,ACTRESS IN A LEADING ROLE,Judy Davis,,,"{""Adela Quested""}",NA
+1984,A Passage to India,ACTRESS IN A SUPPORTING ROLE,Peggy Ashcroft,won,,"{""Mrs. Moore""}",NA
+1984,A Passage to India,ART DIRECTION,"Art Direction: John Box, Leslie Tomkins; Set Decoration: Hugh Scaife",,,NA,NA
+1984,A Passage to India,CINEMATOGRAPHY,Ernest Day,,,NA,NA
+1984,A Passage to India,COSTUME DESIGN,Judy Moorcroft,,,NA,NA
+1984,A Passage to India,DIRECTING,David Lean,,,NA,NA
+1984,A Passage to India,FILM EDITING,David Lean,,,NA,NA
+1984,A Passage to India,MUSIC,Maurice Jarre,won,,NA,(Original Score)
+1984,A Passage to India,BEST PICTURE,"John Brabourne and Richard Goodwin, Producers",,,NA,NA
+1984,A Passage to India,SOUND,"Graham V. Hartstone, Nicolas Le Messurier, Michael A. Carter, John Mitchell",,,NA,NA
+1984,A Passage to India,WRITING,David Lean,,,NA,(Screenplay Based on Material from Another Medium)
+1984,Amadeus,ACTOR IN A LEADING ROLE,F. Murray Abraham,won,,"{""Antonio Salieri""}",NA
+1984,Amadeus,ACTOR IN A LEADING ROLE,Tom Hulce,,,"{""Wolfgang Amadeus Mozart""}",NA
+1984,Amadeus,ART DIRECTION,Art Direction: Patrizia Von Brandenstein; Set Decoration: Karel Cerny,won,,NA,NA
+1984,Amadeus,CINEMATOGRAPHY,Miroslav Ondricek,,,NA,NA
+1984,Amadeus,COSTUME DESIGN,Theodor Pistek,won,,NA,NA
+1984,Amadeus,DIRECTING,Milos Forman,won,,NA,NA
+1984,Amadeus,FILM EDITING,"Nena Danevic, Michael Chandler",,,NA,NA
+1984,Amadeus,MAKEUP,"Paul LeBlanc, Dick Smith",won,,NA,NA
+1984,Amadeus,BEST PICTURE,"Saul Zaentz, Producer",won,,NA,NA
+1984,Amadeus,SOUND,"Mark Berger, Tom Scott, Todd Boekelheide, Chris Newman",won,,NA,NA
+1984,Amadeus,WRITING,Peter Shaffer ,won,,NA,(Screenplay Based on Material from Another Medium)
+1974,Chinatown,ACTOR,Jack Nicholson,,,"{""J. J. Gittes""}",NA
+1974,Chinatown,ACTRESS,Faye Dunaway,,,"{""Evelyn Cross Mulwray""}",NA
+1974,Chinatown,ART DIRECTION,"Art Direction: Richard Sylbert, W. Stewart Campbell; Set Decoration: Ruby Levitt",,,NA,NA
+1974,Chinatown,CINEMATOGRAPHY,John A. Alonzo,,,NA,NA
+1974,Chinatown,COSTUME DESIGN,Anthea Sylbert,,,NA,NA
+1974,Chinatown,DIRECTING,Roman Polanski,,,NA,NA
+1974,Chinatown,FILM EDITING,Sam O'Steen,,,NA,NA
+1974,Chinatown,MUSIC,Jerry Goldsmith,,,NA,(Original Dramatic Score)
+1974,Chinatown,BEST PICTURE,"Robert Evans, Producer",,,NA,NA
+1974,Chinatown,SOUND,"Bud Grenzbach, Larry Jost",,,NA,NA
+1974,Chinatown,WRITING,Robert Towne ,won,,NA,(Original Screenplay)
+2022,Everything Everywhere All at Once,ACTOR IN A SUPPORTING ROLE,Ke Huy Quan ,won,,"{""Waymond Wang""}",NA
+2022,Everything Everywhere All at Once,ACTRESS IN A LEADING ROLE,Michelle Yeoh ,won,,"{""Evelyn Wang""}",NA
+2022,Everything Everywhere All at Once,ACTRESS IN A SUPPORTING ROLE,Jamie Lee Curtis ,won,,"{""Deirdre Beaubeirdra""}",NA
+2022,Everything Everywhere All at Once,ACTRESS IN A SUPPORTING ROLE,Stephanie Hsu,,,"{""Joy Wang/Jobu Tupaki""}",NA
+2022,Everything Everywhere All at Once,COSTUME DESIGN,Shirley Kurata,,,NA,NA
+2022,Everything Everywhere All at Once,DIRECTING,Daniel Kwan and Daniel Scheinert,won,,NA,NA
+2022,Everything Everywhere All at Once,FILM EDITING,Paul Rogers,won,,NA,NA
+2022,Everything Everywhere All at Once,MUSIC,Son Lux,,,NA,(Original Score)
+2022,Everything Everywhere All at Once,MUSIC,"""This Is A Life,"" Music by Ryan Lott, David Byrne and Mitski; Lyric by Ryan Lott and David Byrne",,,NA,(Original Song)
+2022,Everything Everywhere All at Once,BEST PICTURE,"Daniel Kwan, Daniel Scheinert and Jonathan Wang, Producers",won,,NA,NA
+2022,Everything Everywhere All at Once,WRITING,Written by Daniel Kwan & Daniel Scheinert ,won,,NA,(Original Screenplay)
+1982,Gandhi,ACTOR IN A LEADING ROLE,Ben Kingsley ,won,,"{""Mahatma Gandhi""}",NA
+1982,Gandhi,ART DIRECTION,"Art Direction: Stuart Craig, Bob Laing; Set Decoration: Michael Seirton",won,,NA,NA
+1982,Gandhi,CINEMATOGRAPHY,"Billy Williams, Ronnie Taylor",won,,NA,NA
+1982,Gandhi,COSTUME DESIGN,"John Mollo, Bhanu Athaiya",won,,NA,NA
+1982,Gandhi,DIRECTING,Richard Attenborough,won,,NA,NA
+1982,Gandhi,FILM EDITING,John Bloom,won,,NA,NA
+1982,Gandhi,MAKEUP,Tom Smith,,,NA,NA
+1982,Gandhi,MUSIC,"Ravi Shankar, George Fenton",,,NA,(Original Score)
+1982,Gandhi,BEST PICTURE,"Richard Attenborough, Producer",won,,NA,NA
+1982,Gandhi,SOUND,"Gerry Humphreys, Robin O'Donoghue, Jonathan Bates, Simon Kaye",,,NA,NA
+1982,Gandhi,WRITING,John Briley ,won,,NA,(Screenplay Written Directly for the Screen)
+2011,Hugo,ART DIRECTION,Production Design: Dante Ferretti; Set Decoration: Francesca Lo Schiavo,won,,NA,NA
+2011,Hugo,CINEMATOGRAPHY,Robert Richardson,won,,NA,NA
+2011,Hugo,COSTUME DESIGN,Sandy Powell,,,NA,NA
+2011,Hugo,DIRECTING,Martin Scorsese,,,NA,NA
+2011,Hugo,FILM EDITING,Thelma Schoonmaker,,,NA,NA
+2011,Hugo,MUSIC,Howard Shore,,,NA,(Original Score)
+2011,Hugo,BEST PICTURE,"Graham King and Martin Scorsese, Producers",,,NA,NA
+2011,Hugo,SOUND EDITING,Philip Stockton and Eugene Gearty,won,,NA,NA
+2011,Hugo,SOUND MIXING,Tom Fleischman and John Midgley,won,,NA,NA
+2011,Hugo,VISUAL EFFECTS,"Rob Legato, Joss Williams, Ben Grossmann and Alex Henning",won,,NA,NA
+2011,Hugo,WRITING,Screenplay by John Logan,,,NA,(Adapted Screenplay)
+2019,Joker,ACTOR IN A LEADING ROLE,Joaquin Phoenix,won,,"{""Arthur Fleck""}",NA
+2019,Joker,CINEMATOGRAPHY,Lawrence Sher,,,NA,NA
+2019,Joker,COSTUME DESIGN,Mark Bridges,,,NA,NA
+2019,Joker,DIRECTING,Todd Phillips,,,NA,NA
+2019,Joker,FILM EDITING,Jeff Groth,,,NA,NA
+2019,Joker,MAKEUP AND HAIRSTYLING,Nicki Ledermann and Kay Georgiou,,,NA,NA
+2019,Joker,MUSIC,Hildur Guðnadóttir,won,,NA,(Original Score)
+2019,Joker,BEST PICTURE,"Todd Phillips, Bradley Cooper and Emma Tillinger Koskoff, Producers",,,NA,NA
+2019,Joker,SOUND EDITING,Alan Robert Murray,,,NA,NA
+2019,Joker,SOUND MIXING,"Tom Ozanich, Dean Zupancic and Tod Maitland",,,NA,NA
+2019,Joker,WRITING,Written by Todd Phillips & Scott Silver,,,NA,(Adapted Screenplay)
+1961,Judgment at Nuremberg,ACTOR,Maximilian Schell,won,,"{""Hans Rolfe""}",NA
+1961,Judgment at Nuremberg,ACTOR,Spencer Tracy,,,"{""Judge Dan Haywood""}",NA
+1961,Judgment at Nuremberg,ACTOR IN A SUPPORTING ROLE,Montgomery Clift,,,"{""Rudolph Petersen""}",NA
+1961,Judgment at Nuremberg,ACTRESS IN A SUPPORTING ROLE,Judy Garland,,,"{""Irene Hoffman""}",NA
+1961,Judgment at Nuremberg,ART DIRECTION,Art Direction: Rudolph Sternad; Set Decoration: George Milo,,,NA,(Black-and-White)
+1961,Judgment at Nuremberg,CINEMATOGRAPHY,Ernest Laszlo,,,NA,(Black-and-White)
+1961,Judgment at Nuremberg,COSTUME DESIGN,Jean Louis,,,NA,(Black-and-White)
+1961,Judgment at Nuremberg,DIRECTING,Stanley Kramer,,,NA,NA
+1961,Judgment at Nuremberg,FILM EDITING,Frederic Knudtson,,,NA,NA
+1961,Judgment at Nuremberg,BEST MOTION PICTURE,"Stanley Kramer, Producer",,,NA,NA
+1961,Judgment at Nuremberg,WRITING,Abby Mann ,won,,NA,(Screenplay--based on material from another medium)
+1977,Julia,ACTOR IN A SUPPORTING ROLE,Jason Robards,won,,"{""Dashiell Hammett""}",NA
+1977,Julia,ACTOR IN A SUPPORTING ROLE,Maximilian Schell,,,"{""Johann""}",NA
+1977,Julia,ACTRESS IN A LEADING ROLE,Jane Fonda,,,"{""Lillian Hellman""}",NA
+1977,Julia,ACTRESS IN A SUPPORTING ROLE,Vanessa Redgrave,won,,"{""Julia""}",NA
+1977,Julia,CINEMATOGRAPHY,Douglas Slocombe,,,NA,NA
+1977,Julia,COSTUME DESIGN,Anthea Sylbert,,,NA,NA
+1977,Julia,DIRECTING,Fred Zinnemann,,,NA,NA
+1977,Julia,FILM EDITING,Walter Murch,,,NA,NA
+1977,Julia,MUSIC,Georges Delerue,,,NA,(Original Score)
+1977,Julia,BEST PICTURE,"Richard Roth, Producer",,,NA,NA
+1977,Julia,WRITING,Alvin Sargent,won,,NA,(Screenplay--based on material from another medium)
+2012,Life of Pi,CINEMATOGRAPHY,Claudio Miranda,won,,NA,NA
+2012,Life of Pi,DIRECTING,Ang Lee,won,,NA,NA
+2012,Life of Pi,FILM EDITING,Tim Squyres,,,NA,NA
+2012,Life of Pi,MUSIC,Mychael Danna,won,,NA,(Original Score)
+2012,Life of Pi,MUSIC,"""Pi's Lullaby,"" Music by Mychael Danna; Lyric by Bombay Jayashri",,,NA,(Original Song)
+2012,Life of Pi,BEST PICTURE,"Gil Netter, Ang Lee and David Womark, Producers",,,NA,NA
+2012,Life of Pi,PRODUCTION DESIGN,Production Design: David Gropman; Set Decoration: Anna Pinnock,,,NA,NA
+2012,Life of Pi,SOUND EDITING,Eugene Gearty and Philip Stockton,,,NA,NA
+2012,Life of Pi,SOUND MIXING,"Ron Bartlett, D.M. Hemphill and Drew Kunin",,,NA,NA
+2012,Life of Pi,VISUAL EFFECTS,"Bill Westenhofer, Guillaume Rocheron, Erik-Jan De Boer and Donald R. Elliott",won,,NA,NA
+2012,Life of Pi,WRITING,Screenplay by David Magee,,,NA,(Adapted Screenplay)
+1939,Mr. Smith Goes to Washington,ACTOR,James Stewart,,,"{""Jefferson Smith""}",NA
+1939,Mr. Smith Goes to Washington,ACTOR IN A SUPPORTING ROLE,Harry Carey,,,"{""President of the Senate""}",NA
+1939,Mr. Smith Goes to Washington,ACTOR IN A SUPPORTING ROLE,Claude Rains,,,"{""Senator Joseph Paine""}",NA
+1939,Mr. Smith Goes to Washington,ART DIRECTION,Lionel Banks,,,NA,NA
+1939,Mr. Smith Goes to Washington,DIRECTING,Frank Capra,,,NA,NA
+1939,Mr. Smith Goes to Washington,FILM EDITING,"Gene Havlick, Al Clark",,,NA,NA
+1939,Mr. Smith Goes to Washington,MUSIC,Dimitri Tiomkin,,,NA,(Scoring)
+1939,Mr. Smith Goes to Washington,OUTSTANDING PRODUCTION,Columbia,,,NA,NA
+1939,Mr. Smith Goes to Washington,SOUND RECORDING,"Columbia Studio Sound Department, John Livadary, Sound Director",,,NA,NA
+1939,Mr. Smith Goes to Washington,WRITING,Lewis R. Foster,won,,NA,(Original Story)
+1939,Mr. Smith Goes to Washington,WRITING,Sidney Buchman,,,NA,(Screenplay)
+1968,Oliver!,ACTOR,Ron Moody,,,"{""Fagin""}",NA
+1968,Oliver!,ACTOR IN A SUPPORTING ROLE,Jack Wild,,,"{""The Artful Dodger""}",NA
+1968,Oliver!,ART DIRECTION,"Art Direction: John Box, Terence Marsh; Set Decoration: Vernon Dixon, Ken Muggleston",won,,NA,NA
+1968,Oliver!,CINEMATOGRAPHY,Oswald Morris,,,NA,NA
+1968,Oliver!,COSTUME DESIGN,Phyllis Dalton,,,NA,NA
+1968,Oliver!,DIRECTING,Carol Reed,won,,NA,NA
+1968,Oliver!,FILM EDITING,Ralph Kemplen,,,NA,NA
+1968,Oliver!,MUSIC,Adaptation score by John Green,won,,NA,(Score of a Musical Picture--original or adaptation)
+1968,Oliver!,BEST PICTURE,"John Woolf, Producer",won,,NA,NA
+1968,Oliver!,SOUND,Shepperton Studio Sound Department,won,,NA,NA
+1968,Oliver!,WRITING,Vernon Harris,,,NA,(Screenplay--based on material from another medium)
+1985,Out of Africa,ACTOR IN A SUPPORTING ROLE,Klaus Maria Brandauer,,,"{""Bror""}",NA
+1985,Out of Africa,ACTRESS IN A LEADING ROLE,Meryl Streep,,,"{""Karen""}",NA
+1985,Out of Africa,ART DIRECTION,Art Direction: Stephen Grimes; Set Decoration: Josie MacAvin,won,,NA,NA
+1985,Out of Africa,CINEMATOGRAPHY,David Watkin,won,,NA,NA
+1985,Out of Africa,COSTUME DESIGN,Milena Canonero,,,NA,NA
+1985,Out of Africa,DIRECTING,Sydney Pollack,won,,NA,NA
+1985,Out of Africa,FILM EDITING,"Fredric Steinkamp, William Steinkamp, Pembroke Herring, Sheldon Kahn",,,NA,NA
+1985,Out of Africa,MUSIC,John Barry,won,,NA,(Original Score)
+1985,Out of Africa,BEST PICTURE,"Sydney Pollack, Producer",won,,NA,NA
+1985,Out of Africa,SOUND,"Chris Jenkins, Gary Alexander, Larry Stensvold, Peter Handford",won,,NA,NA
+1985,Out of Africa,WRITING,Kurt Luedtke ,won,,NA,(Screenplay Based on Material from Another Medium)
+1940,Rebecca,ACTOR,Laurence Olivier,,,"{""Maxim de Winter""}",NA
+1940,Rebecca,ACTRESS,Joan Fontaine,,,"{""Mrs. de Winter""}",NA
+1940,Rebecca,ACTRESS IN A SUPPORTING ROLE,Judith Anderson,,,"{""Mrs. Danvers""}",NA
+1940,Rebecca,ART DIRECTION,Lyle Wheeler,,,NA,(Black-and-White)
+1940,Rebecca,CINEMATOGRAPHY,George Barnes,won,,NA,(Black-and-White)
+1940,Rebecca,DIRECTING,Alfred Hitchcock,,,NA,NA
+1940,Rebecca,FILM EDITING,Hal C. Kern,,,NA,NA
+1940,Rebecca,MUSIC,Franz Waxman,,,NA,(Original Score)
+1940,Rebecca,OUTSTANDING PRODUCTION,Selznick International Pictures,won,,NA,NA
+1940,Rebecca,SPECIAL EFFECTS,Photographic Effects by Jack Cosgrove; Sound Effects by Arthur Johns,,,NA,NA
+1940,Rebecca,WRITING,"Robert E. Sherwood, Joan Harrison",,,NA,(Screenplay)
+1998,Saving Private Ryan,ACTOR IN A LEADING ROLE,Tom Hanks,,,"{""Captain Miller""}",NA
+1998,Saving Private Ryan,ART DIRECTION,Art Direction: Tom Sanders; Set Decoration: Lisa Dean Kavanaugh,,,NA,NA
+1998,Saving Private Ryan,CINEMATOGRAPHY,Janusz Kaminski,won,,NA,NA
+1998,Saving Private Ryan,DIRECTING,Steven Spielberg,won,,NA,NA
+1998,Saving Private Ryan,FILM EDITING,Michael Kahn,won,,NA,NA
+1998,Saving Private Ryan,MAKEUP,"Lois Burwell, Conor O'Sullivan, Daniel C. Striepeke",,,NA,NA
+1998,Saving Private Ryan,MUSIC,John Williams,,,NA,(Original Dramatic Score)
+1998,Saving Private Ryan,BEST PICTURE,"Steven Spielberg, Ian Bryce, Mark Gordon and Gary Levinsohn, Producers",,,NA,NA
+1998,Saving Private Ryan,SOUND,"Gary Rydstrom, Gary Summers, Andy Nelson, Ronald Judkins",won,,NA,NA
+1998,Saving Private Ryan,SOUND EFFECTS EDITING,"Gary Rydstrom, Richard Hymns",won,,NA,NA
+1998,Saving Private Ryan,WRITING,Robert Rodat,,,NA,(Screenplay Written Directly for the Screen)
+1941,Sergeant York,ACTOR,Gary Cooper,won,,"{""Alvin C. York""}",NA
+1941,Sergeant York,ACTOR IN A SUPPORTING ROLE,Walter Brennan,,,"{""Pastor Posier Pile""}",NA
+1941,Sergeant York,ACTRESS IN A SUPPORTING ROLE,Margaret Wycherly,,,"{""Mother York""}",NA
+1941,Sergeant York,ART DIRECTION,Art Direction: John Hughes; Interior Decoration: Fred MacLean,,,NA,(Black-and-White)
+1941,Sergeant York,CINEMATOGRAPHY,Sol Polito,,,NA,(Black-and-White)
+1941,Sergeant York,DIRECTING,Howard Hawks,,,NA,NA
+1941,Sergeant York,FILM EDITING,William Holmes,won,,NA,NA
+1941,Sergeant York,MUSIC,Max Steiner,,,NA,(Music Score of a Dramatic Picture)
+1941,Sergeant York,OUTSTANDING MOTION PICTURE,Warner Bros.,,,NA,NA
+1941,Sergeant York,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",,,NA,NA
+1941,Sergeant York,WRITING,"Abem Finkel, Harry Chandlee, Howard Koch, John Huston",,,NA,(Original Screenplay)
+1950,Sunset Blvd.,ACTOR,William Holden,,,"{""Joe Gillis""}",NA
+1950,Sunset Blvd.,ACTOR IN A SUPPORTING ROLE,Erich von Stroheim,,,"{""Max Von Mayerling""}",NA
+1950,Sunset Blvd.,ACTRESS,Gloria Swanson,,,"{""Norma Desmond""}",NA
+1950,Sunset Blvd.,ACTRESS IN A SUPPORTING ROLE,Nancy Olson,,,"{""Betty Schaefer""}",NA
+1950,Sunset Blvd.,ART DIRECTION,"Art Direction: Hans Dreier, John Meehan; Set Decoration: Sam Comer, Ray Moyer",won,,NA,(Black-and-White)
+1950,Sunset Blvd.,CINEMATOGRAPHY,John F. Seitz,,,NA,(Black-and-White)
+1950,Sunset Blvd.,DIRECTING,Billy Wilder,,,NA,NA
+1950,Sunset Blvd.,FILM EDITING,"Arthur Schmidt, Doane Harrison",,,NA,NA
+1950,Sunset Blvd.,MUSIC,Franz Waxman,won,,NA,(Music Score of a Dramatic or Comedy Picture)
+1950,Sunset Blvd.,BEST MOTION PICTURE,Paramount,,,NA,NA
+1950,Sunset Blvd.,WRITING,"Charles Brackett, Billy Wilder, D. M. Marshman, Jr.",won,,NA,(Story and Screenplay)
+1983,Terms of Endearment,ACTOR IN A SUPPORTING ROLE,John Lithgow ,,,"{""Sam Burns""}",NA
+1983,Terms of Endearment,ACTOR IN A SUPPORTING ROLE,Jack Nicholson,won,,"{""Garrett Breedlove""}",NA
+1983,Terms of Endearment,ACTRESS IN A LEADING ROLE,Shirley MacLaine,won,,"{""Aurora Greenway""}",NA
+1983,Terms of Endearment,ACTRESS IN A LEADING ROLE,Debra Winger,,,"{""Emma Horton""}",NA
+1983,Terms of Endearment,ART DIRECTION,"Art Direction: Polly Platt, Harold Michelson; Set Decoration: Tom Pedigo, Anthony Mondello",,,NA,NA
+1983,Terms of Endearment,DIRECTING,James L. Brooks,won,,NA,NA
+1983,Terms of Endearment,FILM EDITING,Richard Marks,,,NA,NA
+1983,Terms of Endearment,MUSIC,Michael Gore,,,NA,(Original Score)
+1983,Terms of Endearment,BEST PICTURE,"James L. Brooks, Producer",won,,NA,NA
+1983,Terms of Endearment,SOUND,"Donald O. Mitchell, Rick Kline, Kevin O'Connell, Jim Alexander",,,NA,NA
+1983,Terms of Endearment,WRITING,James L. Brooks,won,,NA,(Screenplay Based on Material from Another Medium)
+2004,The Aviator,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,,,"{""Howard Hughes""}",NA
+2004,The Aviator,ACTOR IN A SUPPORTING ROLE,Alan Alda,,,"{""Senator Ralph Owen Brewster""}",NA
+2004,The Aviator,ACTRESS IN A SUPPORTING ROLE,Cate Blanchett,won,,"{""Katharine Hepburn""}",NA
+2004,The Aviator,ART DIRECTION,Art Direction: Dante Ferretti; Set Decoration: Francesca Lo Schiavo,won,,NA,NA
+2004,The Aviator,CINEMATOGRAPHY,Robert Richardson,won,,NA,NA
+2004,The Aviator,COSTUME DESIGN,Sandy Powell,won,,NA,NA
+2004,The Aviator,DIRECTING,Martin Scorsese,,,NA,NA
+2004,The Aviator,FILM EDITING,Thelma Schoonmaker,won,,NA,NA
+2004,The Aviator,BEST PICTURE,"Michael Mann and Graham King, Producers",,,NA,NA
+2004,The Aviator,SOUND MIXING,Tom Fleischman and Petur Hliddal,,,NA,NA
+2004,The Aviator,WRITING,Written by John Logan,,,NA,(Original Screenplay)
+1985,The Color Purple,ACTRESS IN A LEADING ROLE,Whoopi Goldberg,,,"{""Celie""}",NA
+1985,The Color Purple,ACTRESS IN A SUPPORTING ROLE,Margaret Avery,,,"{""Shug Avery""}",NA
+1985,The Color Purple,ACTRESS IN A SUPPORTING ROLE,Oprah Winfrey,,,"{""Sofia""}",NA
+1985,The Color Purple,ART DIRECTION,"Art Direction: J. Michael Riva, Robert W. Welch; Set Decoration: Linda DeScenna",,,NA,NA
+1985,The Color Purple,CINEMATOGRAPHY,Allen Daviau,,,NA,NA
+1985,The Color Purple,COSTUME DESIGN,Aggie Guerard Rodgers,,,NA,NA
+1985,The Color Purple,MAKEUP,Ken Chase,,,NA,NA
+1985,The Color Purple,MUSIC,"Quincy Jones, Jeremy Lubbock, Rod Temperton, Caiphus Semenya, Andrae Crouch, Chris Boardman, Jorge Calandrelli, Joel Rosenbaum, Fred Steiner, Jack Hayes, Jerry Hey, Randy Kerber",,,NA,(Original Score)
+1985,The Color Purple,MUSIC,"""Miss Celie's Blues (Sister),"" Music by Quincy Jones and Rod Temperton; Lyric by Quincy Jones, Rod Temperton and Lionel Richie",,,NA,(Original Song)
+1985,The Color Purple,BEST PICTURE,"Steven Spielberg, Kathleen Kennedy, Frank Marshall and Quincy Jones, Producers",,,NA,NA
+1985,The Color Purple,WRITING,Menno Meyjes,,,NA,(Screenplay Based on Material from Another Medium)
+1972,The Godfather,ACTOR,Marlon Brando,won,,"{""Don Vito Corleone""}",NA
+1972,The Godfather,ACTOR IN A SUPPORTING ROLE,James Caan,,,"{""Sonny Corleone""}",NA
+1972,The Godfather,ACTOR IN A SUPPORTING ROLE,Robert Duvall,,,"{""Tom Hagen""}",NA
+1972,The Godfather,ACTOR IN A SUPPORTING ROLE,Al Pacino,,,"{""Michael Corleone""}",NA
+1972,The Godfather,COSTUME DESIGN,Anna Hill Johnstone,,,NA,NA
+1972,The Godfather,DIRECTING,Francis Ford Coppola,,,NA,NA
+1972,The Godfather,FILM EDITING,"William Reynolds, Peter Zinner",,,NA,NA
+1972,The Godfather,BEST PICTURE,"Albert S. Ruddy, Producer",won,,NA,NA
+1972,The Godfather,SOUND,"Bud Grenzbach, Richard Portman, Christopher Newman",,,NA,NA
+1972,The Godfather,WRITING,"Mario Puzo, Francis Ford Coppola ",won,,NA,(Screenplay--based on material from another medium)
+1974,The Godfather Part II,ACTOR,Al Pacino,,,"{""Michael Corleone""}",NA
+1974,The Godfather Part II,ACTOR IN A SUPPORTING ROLE,Robert De Niro,won,,"{""Vito Corleone""}",NA
+1974,The Godfather Part II,ACTOR IN A SUPPORTING ROLE,Michael V. Gazzo,,,"{""Frankie Pentangeli""}",NA
+1974,The Godfather Part II,ACTOR IN A SUPPORTING ROLE,Lee Strasberg,,,"{""Hyman Roth""}",NA
+1974,The Godfather Part II,ACTRESS IN A SUPPORTING ROLE,Talia Shire,,,"{""Connie Corleone""}",NA
+1974,The Godfather Part II,ART DIRECTION,"Art Direction: Dean Tavoularis, Angelo Graham; Set Decoration: George R. Nelson",won,,NA,NA
+1974,The Godfather Part II,COSTUME DESIGN,Theadora Van Runkle,,,NA,NA
+1974,The Godfather Part II,DIRECTING,Francis Ford Coppola,won,,NA,NA
+1974,The Godfather Part II,MUSIC,"Nino Rota, Carmine Coppola",won,,NA,(Original Dramatic Score)
+1974,The Godfather Part II,BEST PICTURE,"Francis Ford Coppola, Producer; Gray Frederickson and Fred Roos, Co-Producers",won,,NA,NA
+1974,The Godfather Part II,WRITING,"Francis Ford Coppola, Mario Puzo ",won,,NA,(Screenplay Adapted from Other Material)
+2003,The Lord of the Rings: The Return of the King,ART DIRECTION,Art Direction: Grant Major; Set Decoration: Dan Hennah and Alan Lee,won,,NA,NA
+2003,The Lord of the Rings: The Return of the King,COSTUME DESIGN,Ngila Dickson and Richard Taylor,won,,NA,NA
+2003,The Lord of the Rings: The Return of the King,DIRECTING,Peter Jackson,won,,NA,NA
+2003,The Lord of the Rings: The Return of the King,FILM EDITING,Jamie Selkirk,won,,NA,NA
+2003,The Lord of the Rings: The Return of the King,MAKEUP,Richard Taylor and Peter King,won,,NA,NA
+2003,The Lord of the Rings: The Return of the King,MUSIC,Howard Shore,won,,NA,(Original Score)
+2003,The Lord of the Rings: The Return of the King,MUSIC,"""Into The West,"" Music and Lyric by Fran Walsh and Howard Shore and Annie Lennox",won,,NA,(Original Song)
+2003,The Lord of the Rings: The Return of the King,BEST PICTURE,"Barrie M. Osborne, Peter Jackson and Fran Walsh, Producers",won,,NA,NA
+2003,The Lord of the Rings: The Return of the King,SOUND MIXING,"Christopher Boyes, Michael Semanick, Michael Hedges and Hammond Peek",won,,NA,NA
+2003,The Lord of the Rings: The Return of the King,VISUAL EFFECTS,"Jim Rygiel, Joe Letteri, Randall William Cook and Alex Funke",won,,NA,NA
+2003,The Lord of the Rings: The Return of the King,WRITING,"Screenplay by Fran Walsh, Philippa Boyens & Peter Jackson ",won,,NA,(Adapted Screenplay)
+1942,The Pride of the Yankees,ACTOR,Gary Cooper,,,"{""Lou Gehrig""}",NA
+1942,The Pride of the Yankees,ACTRESS,Teresa Wright,,,"{""Eleanor Gehrig""}",NA
+1942,The Pride of the Yankees,ART DIRECTION,Art Direction: Perry Ferguson; Interior Decoration: Howard Bristol,,,NA,(Black-and-White)
+1942,The Pride of the Yankees,CINEMATOGRAPHY,Rudolph Maté,,,NA,(Black-and-White)
+1942,The Pride of the Yankees,FILM EDITING,Daniel Mandell,won,,NA,NA
+1942,The Pride of the Yankees,MUSIC,Leigh Harline,,,NA,(Music Score of a Dramatic or Comedy Picture)
+1942,The Pride of the Yankees,OUTSTANDING MOTION PICTURE,Samuel Goldwyn Productions,,,NA,NA
+1942,The Pride of the Yankees,SOUND RECORDING,"Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",,,NA,NA
+1942,The Pride of the Yankees,SPECIAL EFFECTS,"Photographic Effects by Jack Cosgrove, Ray Binger; Sound Effects by Thomas T. Moulton",,,NA,NA
+1942,The Pride of the Yankees,WRITING,Paul Gallico,,,NA,(Original Motion Picture Story)
+1942,The Pride of the Yankees,WRITING,"Jo Swerling, Herman J. Mankiewicz",,,NA,(Screenplay)
+1977,The Turning Point,ACTOR IN A SUPPORTING ROLE,Mikhail Baryshnikov,,,"{""Yuri Kopeikine""}",NA
+1977,The Turning Point,ACTRESS IN A LEADING ROLE,Anne Bancroft,,,"{""Emma Jacklin""}",NA
+1977,The Turning Point,ACTRESS IN A LEADING ROLE,Shirley MacLaine,,,"{""Deedee Rodgers""}",NA
+1977,The Turning Point,ACTRESS IN A SUPPORTING ROLE,Leslie Browne,,,"{""Emilia Rodgers""}",NA
+1977,The Turning Point,ART DIRECTION,Art Direction: Albert Brenner; Set Decoration: Marvin March,,,NA,NA
+1977,The Turning Point,CINEMATOGRAPHY,Robert Surtees,,,NA,NA
+1977,The Turning Point,DIRECTING,Herbert Ross,,,NA,NA
+1977,The Turning Point,FILM EDITING,William Reynolds,,,NA,NA
+1977,The Turning Point,BEST PICTURE,"Herbert Ross and Arthur Laurents, Producers",,,NA,NA
+1977,The Turning Point,SOUND,"Theodore Soderberg, Paul Wells, Douglas O. Williams, Jerry Jost",,,NA,NA
+1977,The Turning Point,WRITING,Arthur Laurents,,,NA,(Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)
+1961,West Side Story,ACTOR IN A SUPPORTING ROLE,George Chakiris,won,,"{""Bernardo""}",NA
+1961,West Side Story,ACTRESS IN A SUPPORTING ROLE,Rita Moreno,won,,"{""Anita""}",NA
+1961,West Side Story,ART DIRECTION,Art Direction: Boris Leven; Set Decoration: Victor A. Gangelin,won,,NA,(Color)
+1961,West Side Story,CINEMATOGRAPHY,Daniel L. Fapp,won,,NA,(Color)
+1961,West Side Story,COSTUME DESIGN,Irene Sharaff,won,,NA,(Color)
+1961,West Side Story,DIRECTING,"Robert Wise, Jerome Robbins",won,,NA,NA
+1961,West Side Story,FILM EDITING,Thomas Stanford,won,,NA,NA
+1961,West Side Story,MUSIC,"Saul Chaplin, Johnny Green, Sid Ramin, Irwin Kostal",won,,NA,(Scoring of a Musical Picture)
+1961,West Side Story,BEST MOTION PICTURE,"Robert Wise, Producer",won,,NA,NA
+1961,West Side Story,SOUND,"Todd-AO Sound Department, Fred Hynes, Sound Director; and Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",won,,NA,NA
+1961,West Side Story,WRITING,Ernest Lehman,,,NA,(Screenplay--based on material from another medium)
+2019,1917,CINEMATOGRAPHY,Roger Deakins,won,,NA,NA
+2019,1917,DIRECTING,Sam Mendes,,,NA,NA
+2019,1917,MAKEUP AND HAIRSTYLING,"Naomi Donne, Tristan Versluis and Rebecca Cole",,,NA,NA
+2019,1917,MUSIC,Thomas Newman,,,NA,(Original Score)
+2019,1917,BEST PICTURE,"Sam Mendes, Pippa Harris, Jayne-Ann Tenggren and Callum McDougall, Producers",,,NA,NA
+2019,1917,PRODUCTION DESIGN,Production Design: Dennis Gassner; Set Decoration: Lee Sandales,,,NA,NA
+2019,1917,SOUND EDITING,Oliver Tarney and Rachael Tate,,,NA,NA
+2019,1917,SOUND MIXING,Mark Taylor and Stuart Wilson,won,,NA,NA
+2019,1917,VISUAL EFFECTS,"Guillaume Rocheron, Greg Butler and Dominic Tuohy",won,,NA,NA
+2019,1917,WRITING,Written by Sam Mendes & Krysty Wilson-Cairns,,,NA,(Original Screenplay)
+1970,Airport,ACTRESS IN A SUPPORTING ROLE,Helen Hayes,,,"{""Ada Quonsett""}",NA
+1970,Airport,ACTRESS IN A SUPPORTING ROLE,Maureen Stapleton,won,,"{""Inez Guerrero""}",NA
+1970,Airport,ART DIRECTION,"Art Direction: Alexander Golitzen, E. Preston Ames; Set Decoration: Jack D. Moore, Mickey S. Michaels",,,NA,NA
+1970,Airport,CINEMATOGRAPHY,Ernest Laszlo,,,NA,NA
+1970,Airport,COSTUME DESIGN,Edith Head,,,NA,NA
+1970,Airport,FILM EDITING,Stuart Gilmore,,,NA,NA
+1970,Airport,MUSIC,Alfred Newman,,,NA,(Original Score)
+1970,Airport,BEST PICTURE,"Ross Hunter, Producer",,,NA,NA
+1970,Airport,SOUND,"Ronald Pierce, David Moriarty",,,NA,NA
+1970,Airport,WRITING,George Seaton,,,NA,(Screenplay--based on material from another medium)
+2013,American Hustle,ACTOR IN A LEADING ROLE,Christian Bale,,,"{""Irving Rosenfeld""}",NA
+2013,American Hustle,ACTOR IN A SUPPORTING ROLE,Bradley Cooper,,,"{""Richie DiMaso""}",NA
+2013,American Hustle,ACTRESS IN A LEADING ROLE,Amy Adams,,,"{""Sydney Prosser""}",NA
+2013,American Hustle,ACTRESS IN A SUPPORTING ROLE,Jennifer Lawrence,,,"{""Rosalyn Rosenfeld""}",NA
+2013,American Hustle,COSTUME DESIGN,Michael Wilkinson,,,NA,NA
+2013,American Hustle,DIRECTING,David O. Russell,,,NA,NA
+2013,American Hustle,FILM EDITING,"Jay Cassidy, Crispin Struthers and Alan Baumgarten",,,NA,NA
+2013,American Hustle,BEST PICTURE,"Charles Roven, Richard Suckle, Megan Ellison and Jonathan Gordon, Producers",,,NA,NA
+2013,American Hustle,PRODUCTION DESIGN,Production Design: Judy Becker; Set Decoration: Heather Loeffler,,,NA,NA
+2013,American Hustle,WRITING,Written by Eric Warren Singer and David O. Russell,,,NA,(Original Screenplay)
+1969,Anne of the Thousand Days,ACTOR,Richard Burton,,,"{""King Henry VIII""}",NA
+1969,Anne of the Thousand Days,ACTOR IN A SUPPORTING ROLE,Anthony Quayle,,,"{""Cardinal Wolsey""}",NA
+1969,Anne of the Thousand Days,ACTRESS,Genevieve Bujold,,,"{""Anne Boleyn""}",NA
+1969,Anne of the Thousand Days,ART DIRECTION,"Art Direction: Maurice Carter, Lionel Couch; Set Decoration: Patrick McLoughlin",,,NA,NA
+1969,Anne of the Thousand Days,CINEMATOGRAPHY,Arthur Ibbetson,,,NA,NA
+1969,Anne of the Thousand Days,COSTUME DESIGN,Margaret Furse,won,,NA,NA
+1969,Anne of the Thousand Days,MUSIC,Georges Delerue,,,NA,(Original Score--for a motion picture [not a musical])
+1969,Anne of the Thousand Days,BEST PICTURE,"Hal B. Wallis, Producer",,,NA,NA
+1969,Anne of the Thousand Days,SOUND,John Aldred,,,NA,NA
+1969,Anne of the Thousand Days,WRITING,"Screenplay by John Hale, Bridget Boland; Adaptation by Richard Sokolove",,,NA,(Screenplay--based on material from another medium)
+1967,Bonnie and Clyde,ACTOR,Warren Beatty,,,"{""Clyde Barrow""}",NA
+1967,Bonnie and Clyde,ACTOR IN A SUPPORTING ROLE,Gene Hackman,,,"{""Buck Barrow""}",NA
+1967,Bonnie and Clyde,ACTOR IN A SUPPORTING ROLE,Michael J. Pollard,,,"{""C.W. Moss""}",NA
+1967,Bonnie and Clyde,ACTRESS,Faye Dunaway,,,"{""Bonnie Parker""}",NA
+1967,Bonnie and Clyde,ACTRESS IN A SUPPORTING ROLE,Estelle Parsons,won,,"{""Blanche Barrow""}",NA
+1967,Bonnie and Clyde,CINEMATOGRAPHY,Burnett Guffey,won,,NA,NA
+1967,Bonnie and Clyde,COSTUME DESIGN,Theadora Van Runkle,,,NA,NA
+1967,Bonnie and Clyde,DIRECTING,Arthur Penn,,,NA,NA
+1967,Bonnie and Clyde,BEST PICTURE,"Warren Beatty, Producer",,,NA,NA
+1967,Bonnie and Clyde,WRITING,"David Newman, Robert Benton",,,NA,(Story and Screenplay--written directly for the screen)
+1995,Braveheart,CINEMATOGRAPHY,John Toll,won,,NA,NA
+1995,Braveheart,COSTUME DESIGN,Charles Knode,,,NA,NA
+1995,Braveheart,DIRECTING,Mel Gibson,won,,NA,NA
+1995,Braveheart,FILM EDITING,Steven Rosenblum,,,NA,NA
+1995,Braveheart,MAKEUP,"Peter Frampton, Paul Pattison, Lois Burwell",won,,NA,NA
+1995,Braveheart,MUSIC,James Horner,,,NA,(Original Dramatic Score)
+1995,Braveheart,BEST PICTURE,"Mel Gibson, Alan Ladd, Jr. and Bruce Davey, Producers",won,,NA,NA
+1995,Braveheart,SOUND,"Andy Nelson, Scott Millan, Anna Behlmer, Brian Simmons",,,NA,NA
+1995,Braveheart,SOUND EFFECTS EDITING,"Lon Bender, Per Hallberg",won,,NA,NA
+1995,Braveheart,WRITING,Randall Wallace,,,NA,(Screenplay Written Directly for the Screen)
+1991,Bugsby,ACTOR IN A LEADING ROLE,Warren Beatty,,,"{""Bugsy Siegel""}",NA
+1991,Bugsby,ACTOR IN A SUPPORTING ROLE,Harvey Keitel,,,"{""Mickey Cohen""}",NA
+1991,Bugsby,ACTOR IN A SUPPORTING ROLE,Ben Kingsley,,,"{""Meyer Lansky""}",NA
+1991,Bugsby,ART DIRECTION,Art Direction: Dennis Gassner; Set Decoration: Nancy Haigh,won,,NA,NA
+1991,Bugsby,CINEMATOGRAPHY,Allen Daviau,,,NA,NA
+1991,Bugsby,COSTUME DESIGN,Albert Wolsky,won,,NA,NA
+1991,Bugsby,DIRECTING,Barry Levinson,,,NA,NA
+1991,Bugsby,MUSIC,Ennio Morricone,,,NA,(Original Score)
+1991,Bugsby,BEST PICTURE,"Mark Johnson, Barry Levinson and Warren Beatty, Producers",,,NA,NA
+1991,Bugsby,WRITING,James Toback,,,NA,(Screenplay Written Directly for the Screen)
+1972,Cabaret,ACTOR IN A SUPPORTING ROLE,Joel Grey,won,,"{""The Master of Ceremonies""}",NA
+1972,Cabaret,ACTRESS,Liza Minnelli,won,,"{""Sally Bowles""}",NA
+1972,Cabaret,ART DIRECTION,"Art Direction: Rolf Zehetbauer, Jurgen Kiebach; Set Decoration: Herbert Strabel",won,,NA,NA
+1972,Cabaret,CINEMATOGRAPHY,Geoffrey Unsworth,won,,NA,NA
+1972,Cabaret,DIRECTING,Bob Fosse,won,,NA,NA
+1972,Cabaret,FILM EDITING,David Bretherton,won,,NA,NA
+1972,Cabaret,MUSIC,Adaptation Score by Ralph Burns,won,,NA,(Scoring: Adaptation and Original Song Score)
+1972,Cabaret,BEST PICTURE,"Cy Feuer, Producer",,,NA,NA
+1972,Cabaret,SOUND,"Robert Knudson, David Hildyard",won,,NA,NA
+1972,Cabaret,WRITING,Jay Allen,,,NA,(Screenplay--based on material from another medium)
+2000,"Crouching Tiger, Hidden Dragon",ART DIRECTION,Tim Yip,won,,NA,NA
+2000,"Crouching Tiger, Hidden Dragon",CINEMATOGRAPHY,Peter Pau,won,,NA,NA
+2000,"Crouching Tiger, Hidden Dragon",COSTUME DESIGN,Tim Yip,,,NA,NA
+2000,"Crouching Tiger, Hidden Dragon",DIRECTING,Ang Lee,,,NA,NA
+2000,"Crouching Tiger, Hidden Dragon",FILM EDITING,Tim Squyres,,,NA,NA
+2000,"Crouching Tiger, Hidden Dragon",FOREIGN LANGUAGE FILM,Taiwan,won,,NA,NA
+2000,"Crouching Tiger, Hidden Dragon",MUSIC,Tan Dun,won,,NA,(Original Score)
+2000,"Crouching Tiger, Hidden Dragon",MUSIC,"""A Love Before Time,"" Music by Jorge Calandrelli and Tan Dun; Lyric by James Schamus",,,NA,(Original Song)
+2000,"Crouching Tiger, Hidden Dragon",BEST PICTURE,"Bill Kong, Hsu Li Kong and Ang Lee, Producers",,,NA,NA
+2000,"Crouching Tiger, Hidden Dragon",WRITING,Written by Wang Hui Ling and James Schamus and Tsai Kuo Jung,,,NA,(Screenplay Based on Material Previously Produced or Published)
+1965,Doctor Zhivago,ACTOR IN A SUPPORTING ROLE,Tom Courtenay,,,"{""Pasha Antipov/Strelnikoff""}",NA
+1965,Doctor Zhivago,ART DIRECTION,"Art Direction: John Box, Terry Marsh; Set Decoration: Dario Simoni",won,,NA,(Color)
+1965,Doctor Zhivago,CINEMATOGRAPHY,Freddie Young,won,,NA,(Color)
+1965,Doctor Zhivago,COSTUME DESIGN,Phyllis Dalton,won,,NA,(Color)
+1965,Doctor Zhivago,DIRECTING,David Lean,,,NA,NA
+1965,Doctor Zhivago,FILM EDITING,Norman Savage,,,NA,NA
+1965,Doctor Zhivago,MUSIC,Maurice Jarre,won,,NA,(Music Score--substantially original)
+1965,Doctor Zhivago,BEST PICTURE,"Carlo Ponti, Producer",,,NA,NA
+1965,Doctor Zhivago,SOUND,"Metro-Goldwyn-Mayer British Studio Sound Department, A. W. Watkins, Sound Director; and Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",,,NA,NA
+1965,Doctor Zhivago,WRITING,Robert Bolt ,won,,NA,(Screenplay--based on material from another medium)
+2021,Dune,CINEMATOGRAPHY,Greig Fraser,won,,NA,NA
+2021,Dune,COSTUME DESIGN,Jacqueline West and Robert Morgan,,,NA,NA
+2021,Dune,FILM EDITING,Joe Walker,won,,NA,NA
+2021,Dune,MAKEUP AND HAIRSTYLING,"Donald Mowat, Love Larson and Eva von Bahr",,,NA,NA
+2021,Dune,MUSIC,Hans Zimmer,won,,NA,(Original Score)
+2021,Dune,BEST PICTURE,"Mary Parent, Denis Villeneuve and Cale Boyter, Producers",,,NA,NA
+2021,Dune,PRODUCTION DESIGN,Production Design: Patrice Vermette; Set Decoration: Zsuzsanna Sipos,won,,NA,NA
+2021,Dune,SOUND,"Mac Ruth, Mark Mangini, Theo Green, Doug Hemphill and Ron Bartlett",won,,NA,NA
+2021,Dune,VISUAL EFFECTS,"Paul Lambert, Tristan Myles, Brian Connor and Gerd Nefzer",won,,NA,NA
+2021,Dune,WRITING,Screenplay by Jon Spaihts and Denis Villeneuve and Eric Roth,,,NA,(Adapted Screenplay)
+2002,Gangs of New York,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,,,"{""Bill 'The Butcher' Cutting""}",NA
+2002,Gangs of New York,ART DIRECTION,Art Direction: Dante Ferretti; Set Decoration: Francesca Lo Schiavo,,,NA,NA
+2002,Gangs of New York,CINEMATOGRAPHY,Michael Ballhaus,,,NA,NA
+2002,Gangs of New York,COSTUME DESIGN,Sandy Powell,,,NA,NA
+2002,Gangs of New York,DIRECTING,Martin Scorsese,,,NA,NA
+2002,Gangs of New York,FILM EDITING,Thelma Schoonmaker,,,NA,NA
+2002,Gangs of New York,MUSIC,"""The Hands That Built America,"" Music and Lyric by Bono, The Edge, Adam Clayton and Larry Mullen",,,NA,(Original Song)
+2002,Gangs of New York,BEST PICTURE,"Alberto Grimaldi and Harvey Weinstein, Producers",,,NA,NA
+2002,Gangs of New York,SOUND,"Tom Fleischman, Eugene Gearty, Ivan Sharrock",,,NA,NA
+2002,Gangs of New York,WRITING,Screenplay by Jay Cocks and Steve Zaillian and Kenneth Lonergan; Story by Jay Cocks,,,NA,(Original Screenplay)
+1956,Giant,ACTOR,James Dean,,,"{""Jett Rink""}",NA
+1956,Giant,ACTOR,Rock Hudson,,,"{""Bick Benedict""}",NA
+1956,Giant,ACTRESS IN A SUPPORTING ROLE,Mercedes McCambridge,,,"{""Luz Benedict""}",NA
+1956,Giant,ART DIRECTION,Art Direction: Boris Leven; Set Decoration: Ralph S. Hurst,,,NA,(Color)
+1956,Giant,COSTUME DESIGN,"Moss Mabry, Marjorie Best",,,NA,(Color)
+1956,Giant,DIRECTING,George Stevens,won,,NA,NA
+1956,Giant,FILM EDITING,"William Hornbeck, Philip W. Anderson, Fred Bohanan",,,NA,NA
+1956,Giant,MUSIC,Dimitri Tiomkin,,,NA,(Music Score of a Dramatic or Comedy Picture)
+1956,Giant,BEST MOTION PICTURE,"George Stevens and Henry Ginsberg, Producers",,,NA,NA
+1956,Giant,WRITING,"Fred Guiol, Ivan Moffat",,,NA,(Screenplay--Adapted)
+1944,Going My Way,ACTOR,Bing Crosby,won,,"{""Father O'Malley""}",NA
+1944,Going My Way,ACTOR,Barry Fitzgerald,,,"{""Father Fitzgibbon""}",NA
+1944,Going My Way,ACTOR IN A SUPPORTING ROLE,Barry Fitzgerald,won,,"{""Father Fitzgibbon""}",NA
+1944,Going My Way,CINEMATOGRAPHY,Lionel Lindon,,,NA,(Black-and-White)
+1944,Going My Way,DIRECTING,Leo McCarey,won,,NA,NA
+1944,Going My Way,FILM EDITING,Leroy Stone,,,NA,NA
+1944,Going My Way,MUSIC,"""Swinging On A Star,"" Music by James Van Heusen; Lyrics by Johnny Burke",won,,NA,(Song)
+1944,Going My Way,BEST MOTION PICTURE,Paramount,won,,NA,NA
+1944,Going My Way,WRITING,Leo McCarey,won,,NA,(Original Motion Picture Story)
+1944,Going My Way,WRITING,"Frank Butler, Frank Cavett",won,,NA,(Screenplay)
+2013,Gravity,ACTRESS IN A LEADING ROLE,Sandra Bullock,,,"{""Ryan Stone""}",NA
+2013,Gravity,CINEMATOGRAPHY,Emmanuel Lubezki,won,,NA,NA
+2013,Gravity,DIRECTING,Alfonso Cuarón,won,,NA,NA
+2013,Gravity,FILM EDITING,Alfonso Cuarón and Mark Sanger,won,,NA,NA
+2013,Gravity,MUSIC,Steven Price,won,,NA,(Original Score)
+2013,Gravity,BEST PICTURE,"Alfonso Cuarón and David Heyman, Producers",,,NA,NA
+2013,Gravity,PRODUCTION DESIGN,Production Design: Andy Nicholson; Set Decoration: Rosie Goodwin and Joanne Woollard,,,NA,NA
+2013,Gravity,SOUND EDITING,Glenn Freemantle,won,,NA,NA
+2013,Gravity,SOUND MIXING,"Skip Lievsay, Niv Adiri, Christopher Benstead and Chris Munro",won,,NA,NA
+2013,Gravity,VISUAL EFFECTS,"Tim Webber, Chris Lawrence, David Shirk and Neil Corbould ",won,,NA,NA
+1967,Guess Who's Coming to Dinner,ACTOR,Spencer Tracy,,,"{""Matt Drayton""}",NA
+1967,Guess Who's Coming to Dinner,ACTOR IN A SUPPORTING ROLE,Cecil Kellaway,,,"{""Monsignor Ryan""}",NA
+1967,Guess Who's Coming to Dinner,ACTRESS,Katharine Hepburn,won,,"{""Christina Drayton""}",NA
+1967,Guess Who's Coming to Dinner,ACTRESS IN A SUPPORTING ROLE,Beah Richards,,,"{""Mrs. Prentice""}",NA
+1967,Guess Who's Coming to Dinner,ART DIRECTION,Art Direction: Robert Clatworthy; Set Decoration: Frank Tuttle,,,NA,NA
+1967,Guess Who's Coming to Dinner,DIRECTING,Stanley Kramer,,,NA,NA
+1967,Guess Who's Coming to Dinner,FILM EDITING,Robert C. Jones,,,NA,NA
+1967,Guess Who's Coming to Dinner,MUSIC,DeVol,,,NA,(Scoring of Music--adaptation or treatment)
+1967,Guess Who's Coming to Dinner,BEST PICTURE,"Stanley Kramer, Producer",,,NA,NA
+1967,Guess Who's Coming to Dinner,WRITING,William Rose ,won,,NA,(Story and Screenplay--written directly for the screen)
+1941,How Green Was My Valley,ACTOR IN A SUPPORTING ROLE,Donald Crisp,won,,"{""Mr. Morgan""}",NA
+1941,How Green Was My Valley,ACTRESS IN A SUPPORTING ROLE,Sara Allgood,,,"{""Mrs. Morgan""}",NA
+1941,How Green Was My Valley,ART DIRECTION,"Art Direction: Richard Day, Nathan Juran; Interior Decoration: Thomas Little",won,,NA,(Black-and-White)
+1941,How Green Was My Valley,CINEMATOGRAPHY,Arthur Miller,won,,NA,(Black-and-White)
+1941,How Green Was My Valley,DIRECTING,John Ford,won,,NA,NA
+1941,How Green Was My Valley,FILM EDITING,James B. Clark,,,NA,NA
+1941,How Green Was My Valley,MUSIC,Alfred Newman,,,NA,(Music Score of a Dramatic Picture)
+1941,How Green Was My Valley,OUTSTANDING MOTION PICTURE,20th Century-Fox,won,,NA,NA
+1941,How Green Was My Valley,SOUND RECORDING,"20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",,,NA,NA
+1941,How Green Was My Valley,WRITING,Philip Dunne,,,NA,(Screenplay)
+1962,Lawrence of Arabia,ACTOR,Peter O'Toole,,,"{""T.E. Lawrence""}",NA
+1962,Lawrence of Arabia,ACTOR IN A SUPPORTING ROLE,Omar Sharif,,,"{""Sherif Ali ibn el Kharish""}",NA
+1962,Lawrence of Arabia,ART DIRECTION,"Art Direction: John Box, John Stoll; Set Decoration: Dario Simoni",won,,NA,(Color)
+1962,Lawrence of Arabia,CINEMATOGRAPHY,Fred A. Young,won,,NA,(Color)
+1962,Lawrence of Arabia,DIRECTING,David Lean,won,,NA,NA
+1962,Lawrence of Arabia,FILM EDITING,Anne Coates,won,,NA,NA
+1962,Lawrence of Arabia,MUSIC,Maurice Jarre,won,,NA,(Music Score--substantially original)
+1962,Lawrence of Arabia,BEST PICTURE,"Sam Spiegel, Producer",won,,NA,NA
+1962,Lawrence of Arabia,SOUND,"Shepperton Studio Sound Department, John Cox, Sound Director",won,,NA,NA
+1962,Lawrence of Arabia,WRITING,"Robert Bolt, Michael Wilson",,,NA,(Screenplay--based on material from another medium)
+2015,Mad Max: Fury Road,CINEMATOGRAPHY,John Seale,,,NA,NA
+2015,Mad Max: Fury Road,COSTUME DESIGN,Jenny Beavan,won,,NA,NA
+2015,Mad Max: Fury Road,DIRECTING,George Miller,,,NA,NA
+2015,Mad Max: Fury Road,FILM EDITING,Margaret Sixel,won,,NA,NA
+2015,Mad Max: Fury Road,MAKEUP AND HAIRSTYLING,"Lesley Vanderwalt, Elka Wardega and Damian Martin",won,,NA,NA
+2015,Mad Max: Fury Road,BEST PICTURE,"Doug Mitchell and George Miller, Producers",,,NA,NA
+2015,Mad Max: Fury Road,PRODUCTION DESIGN,Production Design: Colin Gibson; Set Decoration: Lisa Thompson,won,,NA,NA
+2015,Mad Max: Fury Road,SOUND EDITING,Mark Mangini and David White,won,,NA,NA
+2015,Mad Max: Fury Road,SOUND MIXING,"Chris Jenkins, Gregg Rudloff and Ben Osmo",won,,NA,NA
+2015,Mad Max: Fury Road,VISUAL EFFECTS,"Andrew Jackson, Tom Wood, Dan Oliver and Andy Williams",,,NA,NA
+2020,Mank,ACTOR IN A LEADING ROLE,Gary Oldman,,,"{""Herman Mankiewicz""}",NA
+2020,Mank,ACTRESS IN A SUPPORTING ROLE,Amanda Seyfried,,,"{""Marion Davies""}",NA
+2020,Mank,CINEMATOGRAPHY,Erik Messerschmidt,won,,NA,NA
+2020,Mank,COSTUME DESIGN,Trish Summerville,,,NA,NA
+2020,Mank,DIRECTING,David Fincher,,,NA,NA
+2020,Mank,MAKEUP AND HAIRSTYLING,"Gigi Williams, Kimberley Spiteri and Colleen LaBaff",,,NA,NA
+2020,Mank,MUSIC,Trent Reznor and Atticus Ross,,,NA,(Original Score)
+2020,Mank,BEST PICTURE,"Ceán Chaffin, Eric Roth and Douglas Urbanski, Producers",,,NA,NA
+2020,Mank,PRODUCTION DESIGN,Production Design: Donald Graham Burt; Set Decoration: Jan Pascale,won,,NA,NA
+2020,Mank,SOUND,"Ren Klyce, Jeremy Molod, David Parker, Nathan Nance and Drew Kunin",,,NA,NA
+2003,Master and Commander: The Far Side of the World,ART DIRECTION,Art Direction: William Sandell; Set Decoration: Robert Gould,,,NA,NA
+2003,Master and Commander: The Far Side of the World,CINEMATOGRAPHY,Russell Boyd,won,,NA,NA
+2003,Master and Commander: The Far Side of the World,COSTUME DESIGN,Wendy Stites,,,NA,NA
+2003,Master and Commander: The Far Side of the World,DIRECTING,Peter Weir,,,NA,NA
+2003,Master and Commander: The Far Side of the World,FILM EDITING,Lee Smith,,,NA,NA
+2003,Master and Commander: The Far Side of the World,MAKEUP,Edouard Henriques III and Yolanda Toussieng,,,NA,NA
+2003,Master and Commander: The Far Side of the World,BEST PICTURE,"Samuel Goldwyn, Jr., Peter Weir and Duncan Henderson, Producers",,,NA,NA
+2003,Master and Commander: The Far Side of the World,SOUND EDITING,Richard King,won,,NA,NA
+2003,Master and Commander: The Far Side of the World,SOUND MIXING,"Paul Massey, D.M. Hemphill and Arthur Rochester",,,NA,NA
+2003,Master and Commander: The Far Side of the World,VISUAL EFFECTS,"Dan Sudick, Stefen Fangmeier, Nathan McGuinness and Robert Stromberg",,,NA,NA
+1976,Network,ACTOR IN A LEADING ROLE,Peter Finch,won,,"{""Howard Beale""}",NA
+1976,Network,ACTOR IN A LEADING ROLE,William Holden,,,"{""Max Schumacher""}",NA
+1976,Network,ACTOR IN A SUPPORTING ROLE,Ned Beatty,,,"{""Arthur Jensen""}",NA
+1976,Network,ACTRESS IN A LEADING ROLE,Faye Dunaway,won,,"{""Diana Christensen""}",NA
+1976,Network,ACTRESS IN A SUPPORTING ROLE,Beatrice Straight,won,,"{""Louise Schumacher""}",NA
+1976,Network,CINEMATOGRAPHY,Owen Roizman,,,NA,NA
+1976,Network,DIRECTING,Sidney Lumet,,,NA,NA
+1976,Network,FILM EDITING,Alan Heim,,,NA,NA
+1976,Network,BEST PICTURE,"Howard Gottfried, Producer",,,NA,NA
+1976,Network,WRITING,Paddy Chayefsky ,won,,NA,(Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)
+1981,On Golden Pond,ACTOR IN A LEADING ROLE,Henry Fonda,won,,"{""Norman Thayer, Jr.""}",NA
+1981,On Golden Pond,ACTRESS IN A LEADING ROLE,Katharine Hepburn,won,,"{""Ethel Thayer""}",NA
+1981,On Golden Pond,ACTRESS IN A SUPPORTING ROLE,Jane Fonda,,,"{""Chelsea Thayer Wayne""}",NA
+1981,On Golden Pond,CINEMATOGRAPHY,Billy Williams,,,NA,NA
+1981,On Golden Pond,DIRECTING,Mark Rydell,,,NA,NA
+1981,On Golden Pond,FILM EDITING,Robert L. Wolfe,,,NA,NA
+1981,On Golden Pond,MUSIC,Dave Grusin,,,NA,(Original Score)
+1981,On Golden Pond,BEST PICTURE,"Bruce Gilbert, Producer",,,NA,NA
+1981,On Golden Pond,SOUND,"Richard Portman, David Ronne",,,NA,NA
+1981,On Golden Pond,WRITING,Ernest Thompson ,won,,NA,(Screenplay Based on Material from Another Medium)
+2019,Once upon a Time...in Hollywood,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,,,"{""Rick Dalton""}",NA
+2019,Once upon a Time...in Hollywood,ACTOR IN A SUPPORTING ROLE,Brad Pitt,won,,"{""Cliff Booth""}",NA
+2019,Once upon a Time...in Hollywood,CINEMATOGRAPHY,Robert Richardson,,,NA,NA
+2019,Once upon a Time...in Hollywood,COSTUME DESIGN,Arianne Phillips,,,NA,NA
+2019,Once upon a Time...in Hollywood,DIRECTING,Quentin Tarantino,,,NA,NA
+2019,Once upon a Time...in Hollywood,BEST PICTURE,"David Heyman, Shannon McIntosh and Quentin Tarantino, Producers",,,NA,NA
+2019,Once upon a Time...in Hollywood,PRODUCTION DESIGN,Production Design: Barbara Ling; Set Decoration: Nancy Haigh,won,,NA,NA
+2019,Once upon a Time...in Hollywood,SOUND EDITING,Wylie Stateman,,,NA,NA
+2019,Once upon a Time...in Hollywood,SOUND MIXING,"Michael Minkler, Christian P. Minkler and Mark Ulano",,,NA,NA
+2019,Once upon a Time...in Hollywood,WRITING,Written by Quentin Tarantino,,,NA,(Original Screenplay)
+1970,Patton,ACTOR,George C. Scott,won,,"{""General George S. Patton, Jr.""}",NA
+1970,Patton,ART DIRECTION,"Art Direction: Urie McCleary, Gil Parrondo; Set Decoration: Antonio Mateos, Pierre-Louis Thevenet",won,,NA,NA
+1970,Patton,CINEMATOGRAPHY,Fred Koenekamp,,,NA,NA
+1970,Patton,DIRECTING,Franklin J. Schaffner,won,,NA,NA
+1970,Patton,FILM EDITING,Hugh S. Fowler,won,,NA,NA
+1970,Patton,MUSIC,Jerry Goldsmith,,,NA,(Original Score)
+1970,Patton,BEST PICTURE,"Frank McCarthy, Producer",won,,NA,NA
+1970,Patton,SOUND,"Douglas Williams, Don Bassman",won,,NA,NA
+1970,Patton,SPECIAL VISUAL EFFECTS,Alex Weldon,,,NA,NA
+1970,Patton,WRITING,"Francis Ford Coppola, Edmund H. North ",won,,NA,(Story and Screenplay--based on factual material or material not previously published or produced)
+1976,Rocky,ACTOR IN A LEADING ROLE,Sylvester Stallone,,,"{""Rocky Balboa""}",NA
+1976,Rocky,ACTOR IN A SUPPORTING ROLE,Burgess Meredith,,,"{""Mickey""}",NA
+1976,Rocky,ACTOR IN A SUPPORTING ROLE,Burt Young,,,"{""Paulie""}",NA
+1976,Rocky,ACTRESS IN A LEADING ROLE,Talia Shire,,,"{""Adrian""}",NA
+1976,Rocky,DIRECTING,John G. Avildsen,won,,NA,NA
+1976,Rocky,FILM EDITING,"Richard Halsey, Scott Conrad",won,,NA,NA
+1976,Rocky,MUSIC,"""Gonna Fly Now,"" Music by Bill Conti; Lyrics by Carol Connors and Ayn Robbins",,,NA,(Original Song)
+1976,Rocky,BEST PICTURE,"Irwin Winkler and Robert Chartoff, Producers",won,,NA,NA
+1976,Rocky,SOUND,"Harry Warren Tetrick, William McCaughey, Lyle Burbridge, Bud Alper",,,NA,NA
+1976,Rocky,WRITING,Sylvester Stallone,,,NA,(Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)
+2018,Roma,ACTRESS IN A LEADING ROLE,Yalitza Aparicio,,,"{""Cleo""}",NA
+2018,Roma,ACTRESS IN A SUPPORTING ROLE,Marina de Tavira,,,"{""Sra. Sofia""}",NA
+2018,Roma,CINEMATOGRAPHY,Alfonso Cuarón,won,,NA,NA
+2018,Roma,DIRECTING,Alfonso Cuarón,won,,NA,NA
+2018,Roma,FOREIGN LANGUAGE FILM,Mexico,won,,NA,NA
+2018,Roma,BEST PICTURE,"Gabriela Rodríguez and Alfonso Cuarón, Producers",,,NA,NA
+2018,Roma,PRODUCTION DESIGN,Production Design: Eugenio Caballero; Set Decoration: Bárbara Enríquez,,,NA,NA
+2018,Roma,SOUND EDITING,Sergio Díaz and Skip Lievsay,,,NA,NA
+2018,Roma,SOUND MIXING,"Skip Lievsay, Craig Henighan and José Antonio García",,,NA,NA
+2018,Roma,WRITING,Written by Alfonso Cuarón,,,NA,(Original Screenplay)
+1953,Roman Holiday,ACTOR IN A SUPPORTING ROLE,Eddie Albert,,,"{""Irving Radovich""}",NA
+1953,Roman Holiday,ACTRESS,Audrey Hepburn,won,,"{""Princess Anne""}",NA
+1953,Roman Holiday,ART DIRECTION,"Art Direction: Hal Pereira, Walter Tyler",,,NA,(Black-and-White)
+1953,Roman Holiday,CINEMATOGRAPHY,"Frank Planer, Henri Alekan",,,NA,(Black-and-White)
+1953,Roman Holiday,COSTUME DESIGN,Edith Head,won,,NA,(Black-and-White)
+1953,Roman Holiday,DIRECTING,William Wyler,,,NA,NA
+1953,Roman Holiday,FILM EDITING,Robert Swink,,,NA,NA
+1953,Roman Holiday,BEST MOTION PICTURE,"William Wyler, Producer",,,NA,NA
+1953,Roman Holiday,WRITING,Dalton Trumbo,won,,NA,(Motion Picture Story)
+1953,Roman Holiday,WRITING,"Ian McLellan Hunter, John Dighton",,,NA,(Screenplay)
+1957,Sayonara,ACTOR,Marlon Brando,,,"{""Major Lloyd Gruver""}",NA
+1957,Sayonara,ACTOR IN A SUPPORTING ROLE,Red Buttons,won,,"{""Joe Kelly""}",NA
+1957,Sayonara,ACTRESS IN A SUPPORTING ROLE,Miyoshi Umeki,won,,"{""Katsumi""}",NA
+1957,Sayonara,ART DIRECTION,Art Direction: Ted Haworth; Set Decoration: Robert Priestley,won,,NA,NA
+1957,Sayonara,CINEMATOGRAPHY,Ellsworth Fredricks,,,NA,NA
+1957,Sayonara,DIRECTING,Joshua Logan,,,NA,NA
+1957,Sayonara,FILM EDITING,"Arthur P. Schmidt, Philip W. Anderson",,,NA,NA
+1957,Sayonara,BEST MOTION PICTURE,"William Goetz, Producer",,,NA,NA
+1957,Sayonara,SOUND RECORDING,"Warner Bros. Studio Sound Department, George Groves, Sound Director",won,,NA,NA
+1957,Sayonara,WRITING,Paul Osborn,,,NA,(Screenplay--based on material from another medium)
+2008,Slumdog Millionaire,CINEMATOGRAPHY,Anthony Dod Mantle,won,,NA,NA
+2008,Slumdog Millionaire,DIRECTING,Danny Boyle,won,,NA,NA
+2008,Slumdog Millionaire,FILM EDITING,Chris Dickens,won,,NA,NA
+2008,Slumdog Millionaire,MUSIC,A.R. Rahman,won,,NA,(Original Score)
+2008,Slumdog Millionaire,MUSIC,"""Jai Ho,"" Music by A.R. Rahman; Lyric by Gulzar",won,,NA,(Original Song)
+2008,Slumdog Millionaire,MUSIC,"""O Saya,"" Music and Lyric by A.R. Rahman and Maya Arulpragasam",,,NA,(Original Song)
+2008,Slumdog Millionaire,BEST PICTURE,"Christian Colson, Producer",won,,NA,NA
+2008,Slumdog Millionaire,SOUND EDITING,Glenn Freemantle and Tom Sayers,,,NA,NA
+2008,Slumdog Millionaire,SOUND MIXING,"Ian Tapp, Richard Pryke and Resul Pookutty",won,,NA,NA
+2008,Slumdog Millionaire,WRITING,Screenplay by Simon Beaufoy ,won,,NA,(Adapted Screenplay)
+1977,Star Wars,ACTOR IN A SUPPORTING ROLE,Alec Guinness,,,"{""Ben 'Obi-Wan' Kenobi""}",NA
+1977,Star Wars,ART DIRECTION,"Art Direction: John Barry, Norman Reynolds, Leslie Dilley; Set Decoration: Roger Christian",won,,NA,NA
+1977,Star Wars,COSTUME DESIGN,John Mollo,won,,NA,NA
+1977,Star Wars,DIRECTING,George Lucas,,,NA,NA
+1977,Star Wars,FILM EDITING,"Paul Hirsch, Marcia Lucas, Richard Chew",won,,NA,NA
+1977,Star Wars,MUSIC,John Williams,won,,NA,(Original Score)
+1977,Star Wars,BEST PICTURE,"Gary Kurtz, Producer",,,NA,NA
+1977,Star Wars,SOUND,"Don MacDougall, Ray West, Bob Minkler, Derek Ball",won,,NA,NA
+1977,Star Wars,VISUAL EFFECTS,"John Stears, John Dykstra, Richard Edlund, Grant McCune, Robert Blalack",won,,NA,NA
+1977,Star Wars,WRITING,George Lucas,,,NA,(Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)
+1960,The Apartment,ACTOR,Jack Lemmon,,,"{""C.C. 'Bud' Baxter""}",NA
+1960,The Apartment,ACTOR IN A SUPPORTING ROLE,Jack Kruschen,,,"{""Dr. Dreyfuss""}",NA
+1960,The Apartment,ACTRESS,Shirley MacLaine,,,"{""Fran Kubelik""}",NA
+1960,The Apartment,ART DIRECTION,Art Direction: Alexander Trauner; Set Decoration: Edward G. Boyle,won,,NA,(Black-and-White)
+1960,The Apartment,CINEMATOGRAPHY,Joseph LaShelle,,,NA,(Black-and-White)
+1960,The Apartment,DIRECTING,Billy Wilder,won,,NA,NA
+1960,The Apartment,FILM EDITING,Daniel Mandell,won,,NA,NA
+1960,The Apartment,BEST MOTION PICTURE,"Billy Wilder, Producer",won,,NA,NA
+1960,The Apartment,SOUND,"Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",,,NA,NA
+1960,The Apartment,WRITING,"Billy Wilder, I. A. L. Diamond ",won,,NA,(Story and Screenplay--written directly for the screen)
+2011,The Artist,ACTOR IN A LEADING ROLE,Jean Dujardin,won,,"{""George Valentin""}",NA
+2011,The Artist,ACTRESS IN A SUPPORTING ROLE,Bérénice Bejo,,,"{""Peppy Miller""}",NA
+2011,The Artist,ART DIRECTION,Production Design: Laurence Bennett; Set Decoration: Robert Gould,,,NA,NA
+2011,The Artist,CINEMATOGRAPHY,Guillaume Schiffman,,,NA,NA
+2011,The Artist,COSTUME DESIGN,Mark Bridges,won,,NA,NA
+2011,The Artist,DIRECTING,Michel Hazanavicius,won,,NA,NA
+2011,The Artist,FILM EDITING,Anne-Sophie Bion and Michel Hazanavicius,,,NA,NA
+2011,The Artist,MUSIC,Ludovic Bource,won,,NA,(Original Score)
+2011,The Artist,BEST PICTURE,"Thomas Langmann, Producer",won,,NA,NA
+2011,The Artist,WRITING,Written by Michel Hazanavicius,,,NA,(Original Screenplay)
+1973,The Exorcist,ACTOR IN A SUPPORTING ROLE,Jason Miller,,,"{""Father Damian Karras""}",NA
+1973,The Exorcist,ACTRESS,Ellen Burstyn,,,"{""Chris MacNeil""}",NA
+1973,The Exorcist,ACTRESS IN A SUPPORTING ROLE,Linda Blair,,,"{""Regan MacNeil""}",NA
+1973,The Exorcist,ART DIRECTION,Art Direction: Bill Malley; Set Decoration: Jerry Wunderlich,,,NA,NA
+1973,The Exorcist,CINEMATOGRAPHY,Owen Roizman,,,NA,NA
+1973,The Exorcist,DIRECTING,William Friedkin,,,NA,NA
+1973,The Exorcist,FILM EDITING,"Jordan Leondopoulos, Bud Smith, Evan Lottman, Norman Gay",,,NA,NA
+1973,The Exorcist,BEST PICTURE,"William Peter Blatty, Producer",,,NA,NA
+1973,The Exorcist,SOUND,"Robert Knudson, Chris Newman",won,,NA,NA
+1973,The Exorcist,WRITING,William Peter Blatty ,won,,NA,(Screenplay--based on material from another medium)
+2018,The Favourite,ACTRESS IN A LEADING ROLE,Olivia Colman,won,,"{""Queen Anne""}",NA
+2018,The Favourite,ACTRESS IN A SUPPORTING ROLE,Emma Stone,,,"{""Abigail""}",NA
+2018,The Favourite,ACTRESS IN A SUPPORTING ROLE,Rachel Weisz,,,"{""Lady Sarah""}",NA
+2018,The Favourite,CINEMATOGRAPHY,Robbie Ryan,,,NA,NA
+2018,The Favourite,COSTUME DESIGN,Sandy Powell,,,NA,NA
+2018,The Favourite,DIRECTING,Yorgos Lanthimos,,,NA,NA
+2018,The Favourite,FILM EDITING,Yorgos Mavropsaridis,,,NA,NA
+2018,The Favourite,BEST PICTURE,"Ceci Dempsey, Ed Guiney, Lee Magiday and Yorgos Lanthimos, Producers",,,NA,NA
+2018,The Favourite,PRODUCTION DESIGN,Production Design: Fiona Crombie; Set Decoration: Alice Felton,,,NA,NA
+2018,The Favourite,WRITING,Written by Deborah Davis and Tony McNamara,,,NA,(Original Screenplay)
+2019,The Irishman,ACTOR IN A SUPPORTING ROLE,Al Pacino,,,"{""Jimmy Hoffa""}",NA
+2019,The Irishman,ACTOR IN A SUPPORTING ROLE,Joe Pesci,,,"{""Russell Bufalino""}",NA
+2019,The Irishman,CINEMATOGRAPHY,Rodrigo Prieto,,,NA,NA
+2019,The Irishman,COSTUME DESIGN,Sandy Powell and Christopher Peterson,,,NA,NA
+2019,The Irishman,DIRECTING,Martin Scorsese,,,NA,NA
+2019,The Irishman,FILM EDITING,Thelma Schoonmaker,,,NA,NA
+2019,The Irishman,BEST PICTURE,"Martin Scorsese, Robert De Niro, Jane Rosenthal and Emma Tillinger Koskoff, Producers",,,NA,NA
+2019,The Irishman,PRODUCTION DESIGN,Production Design: Bob Shaw; Set Decoration: Regina Graves,,,NA,NA
+2019,The Irishman,VISUAL EFFECTS,"Pablo Helman, Leandro Estebecorena, Nelson Sepulveda-Fauser and Stephane Grabli",,,NA,NA
+2019,The Irishman,WRITING,Screenplay by Steven Zaillian,,,NA,(Adapted Screenplay)
+1937,The Life of Emile Zola,ACTOR,Paul Muni,,,"{""Emile Zola""}",NA
+1937,The Life of Emile Zola,ACTOR IN A SUPPORTING ROLE,Joseph Schildkraut,won,,"{""Captain Alfred Dreyfus""}",NA
+1937,The Life of Emile Zola,ART DIRECTION,Anton Grot,,,NA,NA
+1937,The Life of Emile Zola,ASSISTANT DIRECTOR,Russ Saunders,,,NA,NA
+1937,The Life of Emile Zola,DIRECTING,William Dieterle,,,NA,NA
+1937,The Life of Emile Zola,MUSIC,"Warner Bros. Studio Music Department, Leo Forbstein, head of department (Score by Max Steiner)",,,NA,(Scoring)
+1937,The Life of Emile Zola,OUTSTANDING PRODUCTION,Warner Bros.,won,,NA,NA
+1937,The Life of Emile Zola,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",,,NA,NA
+1937,The Life of Emile Zola,WRITING,"Heinz Herald, Geza Herczeg",,,NA,(Original Story)
+1937,The Life of Emile Zola,WRITING,"Norman Reilly Raine, Heinz Herald, Geza Herczeg",won,,NA,(Screenplay)
+1965,The Sound of Music,ACTRESS,Julie Andrews,,,"{""Maria""}",NA
+1965,The Sound of Music,ACTRESS IN A SUPPORTING ROLE,Peggy Wood,,,"{""Mother Abbess""}",NA
+1965,The Sound of Music,ART DIRECTION,"Art Direction: Boris Leven; Set Decoration: Walter M. Scott, Ruby Levitt",,,NA,(Color)
+1965,The Sound of Music,CINEMATOGRAPHY,Ted McCord,,,NA,(Color)
+1965,The Sound of Music,COSTUME DESIGN,Dorothy Jeakins,,,NA,(Color)
+1965,The Sound of Music,DIRECTING,Robert Wise,won,,NA,NA
+1965,The Sound of Music,FILM EDITING,William Reynolds,won,,NA,NA
+1965,The Sound of Music,MUSIC,Irwin Kostal,won,,NA,(Scoring of Music--adaptation or treatment)
+1965,The Sound of Music,BEST PICTURE,"Robert Wise, Producer",won,,NA,NA
+1965,The Sound of Music,SOUND,"20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director ",won,,NA,NA
+1973,The Sting,ACTOR,Robert Redford,,,"{""Johnny Hooker""}",NA
+1973,The Sting,ART DIRECTION,Art Direction: Henry Bumstead; Set Decoration: James Payne,won,,NA,NA
+1973,The Sting,CINEMATOGRAPHY,Robert Surtees,,,NA,NA
+1973,The Sting,COSTUME DESIGN,Edith Head,won,,NA,NA
+1973,The Sting,DIRECTING,George Roy Hill,won,,NA,NA
+1973,The Sting,FILM EDITING,William Reynolds,won,,NA,NA
+1973,The Sting,MUSIC,Adaptation Score by Marvin Hamlisch,won,,NA,(Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)
+1973,The Sting,BEST PICTURE,"Tony Bill, Michael Phillips and Julia Phillips, Producers",won,,NA,NA
+1973,The Sting,SOUND,"Ronald K. Pierce, Robert Bertrand",,,NA,NA
+1973,The Sting,WRITING,David S. Ward,won,,NA,(Story and Screenplay--based on factual material or material not previously published or produced)
+1963,Tom Jones,ACTOR,Albert Finney,,,"{""Tom Jones""}",NA
+1963,Tom Jones,ACTOR IN A SUPPORTING ROLE,Hugh Griffith,,,"{""Squire Western""}",NA
+1963,Tom Jones,ACTRESS IN A SUPPORTING ROLE,Diane Cilento,,,"{""Molly""}",NA
+1963,Tom Jones,ACTRESS IN A SUPPORTING ROLE,Dame Edith Evans,,,"{""Miss Western""}",NA
+1963,Tom Jones,ACTRESS IN A SUPPORTING ROLE,Joyce Redman,,,"{""Mrs. Waters""}",NA
+1963,Tom Jones,ART DIRECTION,"Art Direction: Ralph Brinton, Ted Marshall, Jocelyn Herbert; Set Decoration: Josie MacAvin",,,NA,(Color)
+1963,Tom Jones,DIRECTING,Tony Richardson,won,,NA,NA
+1963,Tom Jones,MUSIC,John Addison,won,,NA,(Music Score--substantially original)
+1963,Tom Jones,BEST PICTURE,"Tony Richardson, Producer",won,,NA,NA
+1963,Tom Jones,WRITING,John Osborne ,won,,NA,(Screenplay--based on material from another medium)
+1982,Tootsie,ACTOR IN A LEADING ROLE,Dustin Hoffman,,,"{""Michael Dorsey/Dorothy Michaels""}",NA
+1982,Tootsie,ACTRESS IN A SUPPORTING ROLE,Teri Garr,,,"{""Sandy Lester""}",NA
+1982,Tootsie,ACTRESS IN A SUPPORTING ROLE,Jessica Lange,won,,"{""Julie Nichols""}",NA
+1982,Tootsie,CINEMATOGRAPHY,Owen Roizman,,,NA,NA
+1982,Tootsie,DIRECTING,Sydney Pollack,,,NA,NA
+1982,Tootsie,FILM EDITING,"Fredric Steinkamp, William Steinkamp",,,NA,NA
+1982,Tootsie,MUSIC,"""It Might Be You,"" Music by Dave Grusin; Lyric by Alan Bergman and Marilyn Bergman",,,NA,(Original Song)
+1982,Tootsie,BEST PICTURE,"Sydney Pollack and Dick Richards, Producers",,,NA,NA
+1982,Tootsie,SOUND,"Arthur Piantadosi, Les Fresholtz, Dick Alexander, Les Lazarowitz",,,NA,NA
+1982,Tootsie,WRITING,"Screenplay by Larry Gelbart, Murray Schisgal; Story by Don McGuire, Larry Gelbart",,,NA,(Screenplay Written Directly for the Screen)
+2010,True Grit,ACTOR IN A LEADING ROLE,Jeff Bridges,,,"{""Rooster Cogburn""}",NA
+2010,True Grit,ACTRESS IN A SUPPORTING ROLE,Hailee Steinfeld,,,"{""Mattie Ross""}",NA
+2010,True Grit,ART DIRECTION,Production Design: Jess Gonchor; Set Decoration: Nancy Haigh,,,NA,NA
+2010,True Grit,CINEMATOGRAPHY,Roger Deakins,,,NA,NA
+2010,True Grit,COSTUME DESIGN,Mary Zophres,,,NA,NA
+2010,True Grit,DIRECTING,Joel Coen and Ethan Coen,,,NA,NA
+2010,True Grit,BEST PICTURE,"Scott Rudin, Ethan Coen and Joel Coen, Producers",,,NA,NA
+2010,True Grit,SOUND EDITING,Skip Lievsay and Craig Berkey,,,NA,NA
+2010,True Grit,SOUND MIXING,"Skip Lievsay, Craig Berkey, Greg Orloff and Peter F. Kurland",,,NA,NA
+2010,True Grit,WRITING,Written for the screen by Joel Coen & Ethan Coen,,,NA,(Adapted Screenplay)
+1944,Wilson,ACTOR,Alexander Knox,,,"{""Woodrow Wilson""}",NA
+1944,Wilson,ART DIRECTION,Art Direction: Wiard Ihnen; Interior Decoration: Thomas Little,won,,NA,(Color)
+1944,Wilson,CINEMATOGRAPHY,Leon Shamroy,won,,NA,(Color)
+1944,Wilson,DIRECTING,Henry King,,,NA,NA
+1944,Wilson,FILM EDITING,Barbara McLean,won,,NA,NA
+1944,Wilson,MUSIC,Alfred Newman,,,NA,(Music Score of a Dramatic or Comedy Picture)
+1944,Wilson,BEST MOTION PICTURE,20th Century-Fox,,,NA,NA
+1944,Wilson,SOUND RECORDING,"20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",won,,NA,NA
+1944,Wilson,SPECIAL EFFECTS,Photographic Effects by Fred Sersen; Sound Effects by Roger Heman,,,NA,NA
+1944,Wilson,WRITING,Lamar Trotti,won,,NA,(Original Screenplay)
